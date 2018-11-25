@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  25 NOV 2018 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  25 NOV 2018 13:26
 entering extended mode
 **"D:/TG/TESIS CNN/Diapositivas_Tesis-2018/origin.tex"
 ("D:/TG/TESIS CNN/Diapositivas_Tesis-2018/origin.tex"
@@ -916,6 +916,26 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count172
 )
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip66
+\RaggedLeftLeftskip=\skip67
+\RaggedRightLeftskip=\skip68
+\CenteringRightskip=\skip69
+\RaggedLeftRightskip=\skip70
+\RaggedRightRightskip=\skip71
+\CenteringParfillskip=\skip72
+\RaggedLeftParfillskip=\skip73
+\RaggedRightParfillskip=\skip74
+\JustifyingParfillskip=\skip75
+\CenteringParindent=\skip76
+\RaggedLeftParindent=\skip77
+\RaggedRightParindent=\skip78
+\JustifyingParindent=\skip79
+)
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerthe
 meBoadilla.sty"
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercol
@@ -925,32 +945,27 @@ erthemerounded.sty")
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercol
 orthemedolphin.sty")
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerout
-erthemeinfolines.sty"))
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 65.
-
-(origin.aux
+erthemeinfolines.sty")) (origin.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
 \openout1 = `origin.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 77.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -1021,7 +1036,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring OFF on input line 74.
+Package hyperref Info: Link coloring OFF on input line 77.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
 .sty"
@@ -1033,55 +1048,55 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count179
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
+LaTeX Info: Redefining \nameref on input line 77.
  (origin.out) (origin.out)
 \@outlinefile=\write5
 \openout5 = `origin.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 74.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 74.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 77.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 74.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 74.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 74.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 74.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 74.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 74.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 74.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 74.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 74.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 74.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 74.
+(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 74.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 74.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 74.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 74.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 77.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\trans
 lator-basic-dictionary-English.dict"
@@ -1107,8 +1122,11 @@ Dictionary: translator-numbers-dictionary, Language: English
 lator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 77.
  (origin.nav) (CAP1.TEX
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 2.
 
@@ -1125,10 +1143,10 @@ Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 2.
 {C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imagene
 s/LOGO_unt.jpg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 20.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 24.
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 20.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 24.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [2
 
@@ -1138,65 +1156,46 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 23.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 28.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [3
 
 ]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 41.
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 34.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 41.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [4
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 34.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 41.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [5
 
-] (origin.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 37.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 52.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [6
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 48.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 66.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [7
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 48.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 66.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [8
-
-]
-(origin.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 50.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [9
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 61.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [10
 
 ] (origin.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1204,52 +1203,41 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 64.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 71.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [11
+
+[9
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 75.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 82.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [10
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 82.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [11
+
+] (origin.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 85.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [12
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 75.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 96.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [13
-
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 95.
-
-("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 95.
-
-("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+lasy on input line 95.
- ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd"
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 95.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 95.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 95.
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 95.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [14
 
 ] (origin.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1257,21 +1245,50 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 98.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 100.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [14
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 111.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [15
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 109.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 111.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [16
 
 ]
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 132.
+ ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 132.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 132.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 132.
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 109.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 132.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [17
 
@@ -1281,163 +1298,139 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 111.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 135.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [18
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 129.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 146.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [19
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 129.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 146.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [20
 
-]
+] (origin.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 129.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 148.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [21
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 129.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 166.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [22
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 129.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 166.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
-
-[23
+ [23
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 144.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 166.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [24
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 144.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 166.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [25
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 144.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 166.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [26
+
+[26
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 144.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 181.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [27
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 144.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 181.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [28
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 159.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 181.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [29
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 159.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 181.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [30
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 159.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 181.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [31
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 159.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 196.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [32
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 159.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 196.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [33
 
-] (origin.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 163.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 196.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [34
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 180.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 196.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
-
-[35
+ [35
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 180.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 196.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [36
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 180.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [37
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 180.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [38
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 180.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [39
 
 ] (origin.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1445,51 +1438,97 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 183.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 200.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [37
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 217.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+
+[38
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 217.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [39
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 217.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [40
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 198.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 217.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [41
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 198.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 217.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [42
 
-]
+] (origin.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 198.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 220.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [43
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 209.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 235.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [44
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 209.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 235.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [45
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 209.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 235.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [46
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 246.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [47
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 246.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [48
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 246.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [49
 
 ]
 (origin.toc
@@ -1498,51 +1537,51 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 212.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [47
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 226.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [48
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 226.
-(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [49
-
-]
-File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
-<use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 226.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 249.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [50
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 237.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 263.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [51
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 237.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 263.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [52
 
 ]
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 237.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 263.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
  [53
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 274.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [54
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 274.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [55
+
+]
+File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
+<use imagenes/LOGO_unt.jpg>
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 274.
+(pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
+ [56
 
 ] (origin.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1550,17 +1589,22 @@ LaTeX Info: Redefining \% on input line 1.
 )
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 239.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 276.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
- [54
+ [57
 
-] (origin.bbl)
+] (origin.bbl
+Underfull \hbox (badness 6893) in paragraph at lines 9--12
+[]\T1/phv/m/n/10 OMS (2017).  10 da-tos so-bre la se-gu-ri-dad vial en el mun-d
+o.
+ []
+
+)
 File: imagenes/LOGO_unt.jpg Graphic file (type jpg)
 <use imagenes/LOGO_unt.jpg>
-Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 246.
+Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 283.
 (pdftex.def)             Requested size: 50.69234pt x 40.9554pt.
-
-[55
+ [58
 
 ])
 \tf@nav=\write6
@@ -1572,22 +1616,22 @@ Package pdftex.def Info: imagenes/LOGO_unt.jpg  used on input line 246.
 \tf@snm=\write8
 \openout8 = `origin.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (origin.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `origin.out' has not changed.
 (rerunfilecheck)             Checksum: 15ADDE088FE76D53CA3A8F14F006683C;661.
  ) 
 Here is how much of TeX's memory you used:
- 19213 strings out of 492970
- 362187 string characters out of 3125706
- 449763 words of memory out of 3000000
- 22462 multiletter control sequences out of 15000+200000
+ 19310 strings out of 492970
+ 364047 string characters out of 3125706
+ 450780 words of memory out of 3000000
+ 22544 multiletter control sequences out of 15000+200000
  38262 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,67p,880b,880s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1598,9 +1642,9 @@ nts/symbols/msam5.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts
 .9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Usuario/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on origin.pdf (55 pages, 474211 bytes).
+Output written on origin.pdf (58 pages, 499878 bytes).
 PDF statistics:
- 1667 PDF objects out of 1728 (max. 8388607)
- 123 named destinations out of 1000 (max. 500000)
+ 1756 PDF objects out of 2073 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 

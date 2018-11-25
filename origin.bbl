@@ -5,4 +5,20 @@ MMA (2011).
 \newblock {\em Plano Nacional de Resíduos Sólidos (PNRS)}.
 \newblock Ministério do Meio Ambiente.
 
+\bibitem[OMS, 2017]{OMS}
+OMS (2017).
+\newblock 10 datos sobre la seguridad vial en el mundo.
+\newblock http://www.who.int/features/factfiles/roadsafety/es/.
+
+\bibitem[SUTRAN, 2014]{SUTRAN}
+SUTRAN (2014).
+\newblock Texto unico ordenado del reglamento nacional de transito - codigo de
+  transito.
+
+\bibitem[Waze, 2016]{CNN}
+Waze (2016).
+\newblock Las mejores y peores ciudades para conducir en américa latina,
+  según waze.
+\newblock http://cnnespanol.cnn.com/2016/09/15/las-mejores-y-peores-ciudades.
+
 \end{thebibliography}
