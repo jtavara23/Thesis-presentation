@@ -1,0 +1,76 @@
+\documentclass[10pt,a4paper]{beamer}
+\usepackage[spanish,es-tabla]{babel} % Idioma español con tablas
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{color}
+\usepackage{alltt}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage[utf8]{inputenc}         % Para escribir en castellano
+\usepackage[T1]{fontenc}
+\usepackage{color}
+\usepackage{alltt}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{anyfontsize}
+\setcounter{secnumdepth}{3} %para que ponga 1.1.1.1 en subsubsecciones
+\setcounter{tocdepth}{3}    % para que ponga subsubsecciones en el indice
+\usepackage{setspace}       % Usado para %\onehalfspace  \doublespacing  \singlespace
+\usepackage{booktabs}       % Para formar tablas
+
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{array,colortbl}
+
+\usepackage[round]{natbib} 
+\bibliographystyle{apalike}
+ 
+\newcommand{\yy}{{\'{\i} }}
+\newcommand{\y}{\'{\i}}
+\textheight 21cm
+
+\setlength{\fboxsep}{0pt}
+
+
+\usetheme{Boadilla} 
+
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.25\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.6\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.15\paperwidth,ht=2.25ex,dp=1ex,center]{date in head/foot}%
+    \insertframenumber{} / \inserttotalframenumber\hspace*{1ex}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\title[{\fontsize{5}{8.8}Modelo de Reconocimiento Automático de Señales de Tránsito Vehicular}]{Modelo de Reconocimiento Automático de Señales de Tránsito Vehicular mediante Aprendizaje Profundo de Redes Neuronales Convolucionales}
+%Modelo De Reconocimiento Automático De Señales De Tránsito Vehicular Mediante Aprendizaje Profundo De Redes Neuronales Convolucionales
+%\subtitle[Nombre de la tesis]{Nombre de la tesis}
+
+\date[15/12/2018]{Defensa de tesis 15/12/2018}
+
+\author[Josué Gastón Távara Idrogo]
+{
+Josué Gastón Távara Idrogo\\
+\texttt{\small jtavara@unitru.edu.pe}
+}
+
+
+\institute{Universidad Nacional de Trujillo 
+Facultad de Ciencias Físicas y Matemáticas
+Escuela Académico Profesional de Informática}
+
+\logo{\includegraphics[scale=.1]{imagenes/LOGO_unt}}
+
+\begin{document}
+	\input{CAP1.TEX}
+\end{document}
