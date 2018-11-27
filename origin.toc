@@ -3,9 +3,9 @@
 \beamer@sectionintoc {2}{Motivaci\IeC {\'o}n}{9}{0}{2}
 \beamer@sectionintoc {3}{Formulaci\IeC {\'o}n del problema}{12}{0}{3}
 \beamer@sectionintoc {4}{Importancia de la investigaci\IeC {\'o}n}{14}{0}{4}
-\beamer@sectionintoc {5}{Contribuci\IeC {\'o}n de la investigaci\IeC {\'o}n}{18}{0}{5}
-\beamer@sectionintoc {6}{Marco te\IeC {\'o}rico}{21}{0}{6}
-\beamer@sectionintoc {7}{Propuesta o tema central de la tesis}{37}{0}{7}
-\beamer@sectionintoc {8}{Resultados de la tesis}{43}{0}{8}
-\beamer@sectionintoc {9}{Consideraciones finales}{50}{0}{9}
-\beamer@sectionintoc {10}{Referencias bibliograficas}{57}{0}{10}
+\beamer@sectionintoc {5}{Contribuci\IeC {\'o}n de la investigaci\IeC {\'o}n}{27}{0}{5}
+\beamer@sectionintoc {6}{Marco te\IeC {\'o}rico}{29}{0}{6}
+\beamer@sectionintoc {7}{Propuesta o tema central de la tesis}{45}{0}{7}
+\beamer@sectionintoc {8}{Resultados de la tesis}{51}{0}{8}
+\beamer@sectionintoc {9}{Consideraciones finales}{58}{0}{9}
+\beamer@sectionintoc {10}{Referencias bibliograficas}{65}{0}{10}
