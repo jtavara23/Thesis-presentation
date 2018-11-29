@@ -1,14 +1,55 @@
 \begin{thebibliography}{}
 
+\bibitem[Bishop, 2006]{Bishop}
+Bishop, C.~M. (2006).
+\newblock {\em Pattern Recognition and Machine Learning (Information Science
+  and Statistics)}.
+\newblock Springer-Verlag, Berlin, Heidelberg.
+
+\bibitem[Dong and Zhou, 2008]{gradient}
+Dong, X. and Zhou, D.-X. (2008).
+\newblock Learning gradients by a gradient descent algorithm.
+\newblock {\em Journal of Mathematical Analysis and Applications}, 341(2):1018
+  -- 1027.
+
 \bibitem[Goodfellow et~al., 2016]{Goodfellow-et-al-2016}
 Goodfellow, I., Bengio, Y., and Courville, A. (2016).
 \newblock {\em Deep Learning}.
 \newblock MIT Press.
 \newblock http://www.deeplearningbook.org.
 
+\bibitem[Jia et~al., 2014]{caffe}
+Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R.,
+  Guadarrama, S., and Darrell, T. (2014).
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock In {\em Proceedings of the 22Nd ACM International Conference on
+  Multimedia}, MM '14, pages 675--678, New York, NY, USA. ACM.
+
+\bibitem[Jordan, 2018]{AdamImg}
+Jordan, J. (2018).
+\newblock Setting the learning rate of your neural network.
+\newblock [Online; accessed Agosto 08, 2018].
+
+\bibitem[Karpathy, 2016]{cs231n}
+Karpathy, A. (2016).
+\newblock Convolutional neural networks (cnns / convnets).
+\newblock {\em Cs231- Stanford Course}.
+
 \bibitem[Krizhevsky et~al., 2012]{Krizhevsky2012}
 Krizhevsky, A., Sutskever, I., and Hinton, G. (2012).
 \newblock Imagenet classification with deep convolutional neural networks.
+
+\bibitem[LeCun et~al., 1998]{LeCun}
+LeCun, Y., L.Botou, Y.Bengio, and P.Haffner (1998).
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE 86}.
+
+\bibitem[Nair and Hinton, 2010]{RELU}
+Nair, V. and Hinton, G.~E. (2010).
+\newblock Rectified linear units improve restricted boltzmann machines.
+\newblock In {\em Proceedings of the 27th International Conference on
+  International Conference on Machine Learning}, ICML'10, pages 807--814, USA.
+  Omnipress.
 
 \bibitem[OMS, 2017]{OMS}
 OMS (2017).
@@ -19,6 +60,10 @@ OMS (2017).
 Rohrer, B. (2016).
 \newblock How convolutional neural networks work.
 \newblock {\em Data Science and Robots Blog}.
+
+\bibitem[Romero, 2015]{AulaDNN}
+Romero, R.~F. (2015).
+\newblock Scc0270/scc5809 - redes neurais - deep learning.
 
 \bibitem[Sermanet and LeCun, 2011]{Multi_scale_feat}
 Sermanet, P. and LeCun, Y. (2011).
@@ -40,5 +85,12 @@ Waze (2016).
 \newblock Las mejores y peores ciudades para conducir en américa latina,
   según waze.
 \newblock http://cnnespanol.cnn.com/2016/09/15/las-mejores-y-peores-ciudades.
+
+\bibitem[Yadav et~al., 2014]{CLAHE}
+Yadav, G., Maheshwari, S., and Agarwal, A. (2014).
+\newblock Contrast limited adaptive histogram equalization based enhancement
+  for real time video system.
+\newblock In {\em 2014 International Conference on Advances in Computing,
+  Communications and Informatics (ICACCI)}, pages 2392--2397.
 
 \end{thebibliography}

@@ -480,3 +480,472 @@
 		
 	\end{itemize}
 }
+
+\frame{
+\begin{block}
+{\Large{Capa Convolucional}}
+\end{block}
+	
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.8\textwidth]{images/marcoteorico/endofConv}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Resultado Final de Convolución}}
+		\vspace{-0.5em}
+		{\tiny{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\end{figure}
+
+}
+
+%----------------------------------------------Capa ReLU(Rectified Linear Units)------------
+
+\frame{
+\begin{block}
+{\Large{Capa ReLU(Rectified Linear Units)}}
+\end{block}
+		\begin{itemize}
+			\item<1->Una red neuronal artificial consiste básicamente en multiplicaciones y suma de matrices. Si solo utilizáramos estos cálculos lineales, podríamos apilarlos uno encima del otro y esa no sería una red muy profunda. Por lo tanto, a menudo se utiliza funciones de activación no lineales en cada capa de la red.
+			\vskip 0.3cm
+			\item<2-> Estas son las tres funciones de activación no lineal más populares:
+				\begin{enumerate}
+				\item[1)] Sigmoid (analiza un valor entre 0 y 1)  
+				\item[2)] TanH (analiza un valor entre -1 y 1) 
+				\item[3)] ReLU (si el valor es negativo, se convierte en 0, de lo contrario, permanece igual) 
+				\end{enumerate}
+
+				\begin{figure}[H]
+%				\begin{center}
+				\includegraphics[width=0.8\textwidth,height=0.3\textheight,keepaspectratio]{images/marcoteorico/activfunct}
+%				\end{center}
+				%\begin{center}
+				%\caption{\tiny{Funciones de activación}}
+				%\vskip -0.2cm  
+				%{\tiny{Fuente propia}}
+				%\end{center}
+				
+				\end{figure}
+
+		\end{itemize}
+}
+
+
+\frame{
+\begin{block}
+{\Large{Capa ReLU(Rectified Linear Units)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1->Actualmente, ReLU es la función de activación no lineal más utilizada \citep{cs231n}, que básicamente aplica la función ${f(x)} = {max (0, x)} $ a todos los valores en el volumen de entrada.
+		\begin{itemize}
+			\item<2->La red puede entrenar mucho más rápido (debido a la eficiencia computacional) sin hacer una diferencia significativa en la precisión.
+			\vskip 0.3cm
+			\item<3->Alivia el problema del gradiente de fuga, que es el problema donde las capas inferiores de la red entrenan muy lentamente porque el gradiente de optimización	disminuye exponencialmente a través de las capas.
+		\end{itemize}
+	\item<4->El hecho de que entradas en la función de activación de valores menores o iguales a cero resulten cero, induce a la dispersión en las unidades ocultas, que según lo comentado anteriormente, produce representaciones dispersas las cuales se consideran más valiosas, \citep{RELU}. 
+	\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Capa ReLU(Rectified Linear Units)}}
+\end{block}
+				\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.6\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/relu}
+		\end{center}
+		\begin{center}
+		\caption{\small{Procedimiento de la función ReLU}}
+		\vskip -0.2cm  
+		{\small{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\vspace{-1.5em}
+		\end{figure}
+}
+
+\frame{
+\begin{block}
+{\Large{Capa ReLU(Rectified Linear Units)}}
+\end{block}
+				\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.6\textwidth,height=0.6\textheight,keepaspectratio]{images/marcoteorico/relu2}
+		\end{center}
+		\begin{center}
+		\caption{\small{Procedimiento de la función ReLU}}
+		\vskip -0.2cm  
+		{\small{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\vspace{-1.5em}
+		\end{figure}
+}
+
+\frame{
+\begin{block}
+{\Large{Capa ReLU(Rectified Linear Units)}}
+\end{block}
+				\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.6\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/relu3}
+		\end{center}
+		\begin{center}
+		\caption{\small{Procedimiento de la función ReLU}}
+		\vskip -0.2cm  
+		{\small{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\vspace{-1.5em}
+		\end{figure}
+}
+%---------------------------------------------Técnica Dropout------------
+\frame{
+\begin{block}
+{\Large{Técnica Dropout}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> Es una técnica de regularización que tiene por objetivo de reducir el sobreajuste que puede darse durante el entrenamiento de una red neuronal. Consiste en establecer a cero la salida de cada neurona oculta con una probabilidad 0.5(comúnmente). Las neuronas que se abandonan de esta manera no contribuyen al pase directo y no participan en las siguientes etapas de entrenamiento.
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.6\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/dropout_sample}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{En la izquierda la red neuronal común y a la derecha la red neuronal diluida producida por la aplicación de dropout}}
+		{\tiny{\citep{AulaDNN}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Técnica Dropout}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1->Por lo tanto, cada vez que se presenta una entrada, la red neuronal muestra una arquitectura diferente, pero todas estas arquitecturas comparten ponderaciones. Esta técnica reduce las coadaptaciones complejas de las neuronas, ya que una neurona no puede depender de la presencia de otras neuronas particulares. Por lo tanto, se ve forzado a aprender características más robustas que son útiles en conjunción con muchos subconjuntos aleatorios diferentes de las otras neuronas.
+	\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.6\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/dropout}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Procesos que pueden ocurrir durante entrenamiento. Dropout evita el sobreajuste}}
+		\vskip -0.3cm  
+		{\tiny{Fuente propia}}
+		\end{center}
+		
+		\end{figure}
+	\end{itemize}
+}
+
+%----------------------------------Capa de Agrupación(Pooling)-------------------------		
+
+\frame{
+\begin{block}
+{\Large{Capa de Agrupación(Pooling)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1->Una variedad de cálculos que reducen la dimensionalidad de un mapa de características se conocen como agrupación. La agrupación, que se aplica a cada canal por separado, permitiendo que la red sea robusta e invariante a pequeños cambios y distorsiones.
+ 	\vskip 0.2cm  
+ 	\item<2->La capa Pooling(también conocida como una capa de reducción de resolución) combina o agrupa, un conjunto de valores en su campo receptivo en un menor número de valores.
+	\vskip 0.2cm  
+ 	\item<3->Puede ser configurado en función del tamaño de su campo receptivo (por ejemplo, 2 x 2) y en función a la operación de agrupamiento (por ejemplo, máximo-max o promedio-average).
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.4\textwidth,height=0.4\textheight,keepaspectratio]{images/marcoteorico/pooling}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Formas de agrupamiento(pooling)}}
+		\vskip -0.2cm  
+		{\tiny{Fuente: \citep{caffe}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+% esto se ejecuta con dos objetivos, el primero de reducir la cantidad de parámetros y el cálculo en la red. El segundo es que controlará el sobreajuste.
+
+\frame{
+\begin{block}
+{\Large{Capa de Agrupación(Pooling)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> El  Max-pooling  es la más popular reduciendo progresivamente el tamaño espacial de la representación de una imágen(mapa de características) mientras conserva la información más importante en ella. El proceso matematico consiste en pasar una pequeña ventana(kernel) através de una imagen y tomar el valor máximo de la ventana en cada paso. 
+ 	\vskip 0.2cm  
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.5\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/pool1}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Operación MAX-pooling en capa de Agrupación}}
+		\vskip -0.2cm  
+		{\tiny{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Capa de Agrupación(Pooling)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> 
+		Este proceso es aplicado para cada mapa de activación(salida de la capa de convolución). Análogamente con la capa de convolución, el resultado en esta capa es un conjunto de imágenes que muestran un versión agrupada de las imágenes de entrada. 
+ 	\vskip 0.2cm  
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.6\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/pool2}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Resultado de Agrupación}}
+		\vskip -0.2cm  
+		{\tiny{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+
+
+
+\frame{
+\begin{block}
+{\Large{Componentes del Modelo - Capas Conectadas}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> 
+		Finalmente la salida de cada capa se convierte en entrada para una posterior.
+ 	\vskip 0.2cm  
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.9\textwidth,height=0.9\textheight,keepaspectratio]{images/marcoteorico/endofLayers1}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Capas Apiladas}}
+		\vskip -0.2cm  
+		{\tiny{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+
+\frame{
+\begin{block}
+{\Large{Componentes del Modelo - Capas Conectadas}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> 
+		Las capas pueden ser repetidas múltiples veces.
+ 	\vskip 0.2cm  
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.8\textwidth,height=0.9\textheight,keepaspectratio]{images/marcoteorico/endofLayers2}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Apilación Profunda de Capas}}
+		\vskip -0.2cm  
+		{\tiny{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+
+
+
+
+
+
+
+%---------------------Capa totalmente conectada )----------------------------------
+
+\frame{
+\begin{block}
+{\Large{Capa totalmente conectada (Fully-connected layer)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> 
+		Esta capa por lo general aparece al final de la arquitectura y es similar al Perceptrón multicapa(MultilayerPerceptron -MLP), en el cual la neurona de salida se conecta a todas las neuronas de entrada y el peso de las conexiones son actualizadas usando el método de retropropagación. 
+ 	\vskip 0.2cm  
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[width=0.4\textwidth,height=0.5\textheight,keepaspectratio]{images/marcoteorico/prevFC}
+		\end{center}
+		\begin{center}
+		\caption{\tiny{Eventualmente, con un mapa de características lo suficientemente pequeño, el contenido se aplastará en un vector de una sola dimensión y será entrada para en un MLP totalmente conectado para su procesamiento}}
+		\vskip -0.2cm  
+		{\tiny{Fuente: \citep{Rohrer}}}
+		\end{center}
+		\end{figure}
+	\end{itemize}
+}
+
+
+\frame{
+\begin{block}
+{\Large{Capa totalmente conectada (Fully-connected layer)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> En esta última capa del modelo generalmente se utiliza una función de activación diferente, porque en esta capa se pretende que tenga una salida determinada. La {\bf función softmax}, conocida tambien como función exponencial normalizada, es muy popular cuando se hace la clasificación.
+ 	\vskip 0.2cm  
+ 	\item<2->  La salida de una red neuronal completamente conectada no es una distribución de probabilidad, sin embargo, el uso de esta función ayuda a obternela. Por lo que esta función permitirá estimar la probabilidad de que la imagen de entrada pertenezca a cada una de las clases al realizar una normalización con el objetivo que el valor de cada neurona esté limitado entre cero y uno y así permitir que el resultado de las neuronas de salida sumen a uno, \citep{Bishop}. 
+	\end{itemize}
+}
+
+
+%-------------------------------------------------------------------------------
+
+\subsection{Validación Cruzada}
+\frame{
+\begin{block}
+{\Large{Validación Cruzada}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> La cantidad de errores en la votación, nos indica qué tan buenas son nuestras pesos y bias. Las características y los pesos se pueden ajustar para reducir el error. Cada valor se ajusta un poco más alto y un poco más bajo, y el nuevo error se calcula cada vez. 
+ 	\vskip 0.2cm  
+ 	\item<2->  Después de hacer esto para cada píxel de función en cada capa convolucional y cada peso en cada capa totalmente conectada, los nuevos pesos dan una respuesta que funciona ligeramente mejor para esa imagen, \citep{Bishop}. 
+ 	 	\vskip 0.2cm  
+ 	\item<3->   Esto se repite con cada imagen subsiguiente en el conjunto de imágenes etiquetadas. Los problemas que ocurren en una sola imagen se olvidan rápidamente, pero los patrones que aparecen en muchas imágenes se integran en las características y los pesos de conexión.
+	\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Validación Cruzada}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> Para el entrenamiento, el conjunto de datos se divide en un subconjunto de entrenamiento y otro para validación. En esta investigación se dividirá el 75\% para entrenamiento y 75\% para validación.
+ 	\vskip 0.2cm  
+ 	\item<2->   La división en subgrupos de entrenamiento y validación generalmente se realiza de manera aleatoria, para garantizar que ambos subconjuntos sean muestras aleatorias de la misma distribución.
+ 
+	\end{itemize}
+}
+
+
+
+
+\frame{
+\begin{block}
+{\Large{Validación Cruzada}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> Para una red neuronal, normalmente verá la ecuación escrita en una forma donde $y$ es el vector de verdad y la variable $\hat{y}$ (o algún otro valor tomado directamente de la última salida de la capa) es la estimación, y se vería así para un solo ejemplo:
+ 	
+			\begin{center}
+			$L = - \mathbf{y} \cdot log({\hat{y}})$
+			\end{center}
+			%\begin{center}
+			%{\small{El valor es independiente de cómo la probabilidad restante se divide entre clases incorrectas}}
+			%\end{center}
+	
+ 	\vskip 0.2cm  
+ 	\item<2->   A menudo esta ecuación es promediada sobre todos los ejemplos como una función de costo. No siempre se cumple estrictamente en las descripciones, pero generalmente una función de pérdida es de nivel inferior y describe cómo una sola instancia o componente determina un valor de error, mientras que una función de costo es de nivel superior y describe cómo se evalúa un sistema completo para la optimización. 
+ 	\vskip 0.2cm  
+ 	\item<3-> Una función de costo basada en pérdida de clasificación multiclase para un conjunto de datos de tamaño N podría verse así:
+			\begin{center}
+			$J = - \frac{1}{N}(\sum_{i=1}^{N} \mathbf{y_i} \cdot log({\hat{y}_i}))$
+			\end{center}
+		
+	\end{itemize}
+}
+
+%----------------------------------------------------------------------------------
+
+\frame{
+\begin{block}
+{\Large{Descenso de Gradiente}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> Un gradiente mide cuánto cambia la salida de una función si se cambia un poco las entradas.
+
+	\item<2->En el caso del entrenamiento de una red neuronal, el gradiente simplemente mide el cambio en todos los pesos con respecto al cambio en el error.
+ 	
+	\item<3->El descenso de gradiente es un algoritmo de optimización iterativa utilizado al entrenar un modelo de aprendizaje automático, basado en una función convexa, que ajusta sus parámetros iterativamente para minimizar la función de pérdida(error) hasta su mínimo local.\citep{gradient}
+
+	\item<4->La idea detrás del descenso de gradiente es disminuir de forma gradual, pero constante, el error de salida ajustando los pesos. Intuitivamente, se conoce que si un cambio en un peso aumentará (disminuirá) el error, entonces queremos disminuir (aumentar) ese peso. Matemáticamente, representa el cambio en el error dado un cambio de unidad en el peso:
+
+		\begin{center}
+		$ \frac{{\partial E}}{\partial w_{ij}}$
+		\end{center}
+		\begin{center}
+		{\tiny{La derivada del error con respecto al peso}}
+		\end{center}
+	
+	\end{itemize}
+}
+\frame{
+\begin{block}
+{\Large{Descenso de Gradiente}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> Una vez que encontremos esta derivada, actualizamos el peso a través de lo siguiente:
+ 		\begin{center}
+		$  \triangle w_{ij} = -\eta\frac{{\partial E}}{\partial w_{ij}} $
+		\end{center}
+		\begin{center}
+		{\tiny{Representación de la distancia por la dirección del cambio. $\eta$  es tasa de aprendizaje}}
+		\end{center}
+		\vskip 0.2cm
+	\item<2-> La tasa de Aprendizaje suele disminuir gradualmente durante las épocas de la fase de entrenamiento. Si actualizamos todos los pesos usando esta misma fórmula, esto equivale a moverse en la dirección de descenso más pronunciado a lo largo de la superficie de error, de ahí el nombre, descenso de gradiente.
+	\end{itemize}
+}
+%----------------------------------------------------------------------------------
+
+\frame{
+\begin{block}
+{\Large{Tasa de Aprendizaje (Learning Rate)}}
+\end{block}
+		
+ 	\begin{itemize}
+ 		%\vskip 0.5cm
+ 	\item<1-> Este parámetro puede entenderse como el tamaño del paso en la optimización para minimizar la función de pérdida de la red, es decir, es un parámetro que determina cuánto influye un paso de actualización en el valor actual de los pesos, por ejemplo, el tamaño del paso en el que el gradiente cae en la dirección máxima de la pendiente, \citep {AdamImg}.
+
+		\begin{figure}[H]
+		%\begin{center}
+		\includegraphics[width=1\textwidth]{images/desarrollo/entrenamiento/LR}
+		%\end{center}
+		\begin{center}
+		\caption{\small{Establecimiento de la Tasa de Aprendizaje}}
+		\vspace{-0.5em}
+		{\small{\citep {AdamImg}}}
+		\end{center}
+		\end{figure}
+
+ 	%,height=0.5\textheight,keepaspectratio
+			
+	\end{itemize}
+}
