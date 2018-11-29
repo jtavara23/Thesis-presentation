@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Motivaci\IeC {\'o}n}{9}{0}{2}
+\beamer@sectionintoc {3}{Formulaci\IeC {\'o}n del problema}{12}{0}{3}
+\beamer@sectionintoc {4}{Importancia de la investigaci\IeC {\'o}n}{14}{0}{4}
+\beamer@sectionintoc {5}{Contribuci\IeC {\'o}n de la investigaci\IeC {\'o}n}{26}{0}{5}
+\beamer@sectionintoc {6}{Marco te\IeC {\'o}rico}{28}{0}{6}
+\beamer@subsectionintoc {6}{1}{Aprendizaje Profundo}{29}{0}{6}
+\beamer@subsectionintoc {6}{2}{Red Convolucional}{41}{0}{6}
+\beamer@subsectionintoc {6}{3}{Arquitectura del Modelo}{50}{0}{6}
+\beamer@subsectionintoc {6}{4}{Componentes del Modelo}{54}{0}{6}
+\beamer@sectionintoc {7}{Propuesta o tema central de la tesis}{80}{0}{7}
+\beamer@sectionintoc {8}{Resultados de la tesis}{86}{0}{8}
+\beamer@sectionintoc {9}{Consideraciones finales}{93}{0}{9}
+\beamer@sectionintoc {10}{Referencias bibliograficas}{100}{0}{10}

@@ -1,0 +1,44 @@
+\begin{thebibliography}{}
+
+\bibitem[Goodfellow et~al., 2016]{Goodfellow-et-al-2016}
+Goodfellow, I., Bengio, Y., and Courville, A. (2016).
+\newblock {\em Deep Learning}.
+\newblock MIT Press.
+\newblock http://www.deeplearningbook.org.
+
+\bibitem[Krizhevsky et~al., 2012]{Krizhevsky2012}
+Krizhevsky, A., Sutskever, I., and Hinton, G. (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+
+\bibitem[OMS, 2017]{OMS}
+OMS (2017).
+\newblock 10 datos sobre la seguridad vial en el mundo.
+\newblock http://www.who.int/features/factfiles/roadsafety/es/.
+
+\bibitem[Rohrer, 2016]{Rohrer}
+Rohrer, B. (2016).
+\newblock How convolutional neural networks work.
+\newblock {\em Data Science and Robots Blog}.
+
+\bibitem[Sermanet and LeCun, 2011]{Multi_scale_feat}
+Sermanet, P. and LeCun, Y. (2011).
+\newblock Traffic sign recognition with multi-scale convolutional networks.
+
+\bibitem[SUTRAN, 2014]{SUTRAN}
+SUTRAN (2014).
+\newblock Texto unico ordenado del reglamento nacional de transito - codigo de
+  transito.
+
+\bibitem[Szegedy et~al., 2014]{Inception}
+Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S.~E., Anguelov, D., Erhan,
+  D., Vanhoucke, V., and Rabinovich, A. (2014).
+\newblock Going deeper with convolutions.
+\newblock {\em CoRR}, abs/1409.4842.
+
+\bibitem[Waze, 2016]{CNN}
+Waze (2016).
+\newblock Las mejores y peores ciudades para conducir en américa latina,
+  según waze.
+\newblock http://cnnespanol.cnn.com/2016/09/15/las-mejores-y-peores-ciudades.
+
+\end{thebibliography}
