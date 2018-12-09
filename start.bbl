@@ -1,10 +1,21 @@
 \begin{thebibliography}{}
 
+\bibitem[Ayuque~Arenas, 2016]{Ayuque2016}
+Ayuque~Arenas, K. J.~M. (2016).
+\newblock Diseño de un sistema de clasificación de señales de tránsito
+  vehicular utilizando redes neuronales convolucionales.
+\newblock {\em Universidad San Ignacio de Loyola}.
+
 \bibitem[Bishop, 2006]{Bishop}
 Bishop, C.~M. (2006).
 \newblock {\em Pattern Recognition and Machine Learning (Information Science
   and Statistics)}.
 \newblock Springer-Verlag, Berlin, Heidelberg.
+
+\bibitem[Cireşan et~al., 2012]{Ciresan}
+Cireşan, D., Meier, U., Masci, J., and Schmidhuber, J. (2012).
+\newblock Multi-column deep neural network for traffic sign classification.
+\newblock {\em Neural Networks from IJCNN 2011}, 32(C):333 -- 338.
 
 \bibitem[Dong and Zhou, 2008]{gradient}
 Dong, X. and Zhou, D.-X. (2008).

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  29 NOV 2018 05:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  9 DEC 2018 00:31
 entering extended mode
 **"D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
 ("D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
@@ -1162,7 +1162,7 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 2.
 {C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/
 LOGO_unt.jpg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 26.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 31.
  [2
 
 ] (start.toc
@@ -1172,7 +1172,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 43.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 48.
  [4
 
 ] [5
@@ -1235,36 +1235,39 @@ LaTeX Info: Redefining \% on input line 1.
 
 ] [27
 
-]) (CAP2.TEX (start.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
-[28
-
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+LaTeX Font Info:    Try loading font information for U+msa on input line 192.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
 "
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+LaTeX Font Info:    Try loading font information for U+msb on input line 192.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 21.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 192.
  ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 192.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 192.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
- [29
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 192.
+ [28
+
+] [29
 
 ] [30
 
-] [31
+]) (CAP2.TEX (start.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [31
 
 ] [32
 
@@ -1272,8 +1275,14 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
 
 ] [34
 
+] [35
+
+] [36
+
+] [37
+
 ]
-<images/marcoteorico/venn_diag.png, id=1105, 435.12563pt x 458.46281pt>
+<images/marcoteorico/venn_diag.png, id=1192, 435.12563pt x 458.46281pt>
 File: images/marcoteorico/venn_diag.png Graphic file (type png)
 <use images/marcoteorico/venn_diag.png>
 Package pdftex.def Info: images/marcoteorico/venn_diag.png  used on input line 
@@ -1283,18 +1292,18 @@ Package pdftex.def Info: images/marcoteorico/venn_diag.png  used on input line
 Overfull \vbox (9.62697pt too high) detected at line 52
  []
 
-[35
+[38
 
- <./images/marcoteorico/venn_diag.png (PNG copy)>] [36
+ <./images/marcoteorico/venn_diag.png (PNG copy)>] [39
 
-] [37
+] [40
 
-] [38
+] [41
 
-] [39
+] [42
 
 ]
-<images/marcoteorico/deepExam.png, id=1241, 450.18187pt x 367.3725pt>
+<images/marcoteorico/deepExam.png, id=1327, 450.18187pt x 367.3725pt>
 File: images/marcoteorico/deepExam.png Graphic file (type png)
 <use images/marcoteorico/deepExam.png>
 Package pdftex.def Info: images/marcoteorico/deepExam.png  used on input line 9
@@ -1304,81 +1313,81 @@ Package pdftex.def Info: images/marcoteorico/deepExam.png  used on input line 9
 Overfull \vbox (9.63327pt too high) detected at line 90
  []
 
-[40
+[43
 
- <./images/marcoteorico/deepExam.png (PNG copy)>] [41
+ <./images/marcoteorico/deepExam.png (PNG copy)>] [44
 
-] [42
+] [45
 
-] [43
+] [46
 
-] [44
+] [47
 
 ]
-<images/marcoteorico/literalcomp.png, id=1376, 784.43062pt x 182.93344pt>
+<images/marcoteorico/literalcomp.png, id=1462, 784.43062pt x 182.93344pt>
 File: images/marcoteorico/literalcomp.png Graphic file (type png)
 <use images/marcoteorico/literalcomp.png>
 Package pdftex.def Info: images/marcoteorico/literalcomp.png  used on input lin
 e 139.
 (pdftex.def)             Requested size: 275.36124pt x 64.21747pt.
 
-[45
+[48
 
- <./images/marcoteorico/literalcomp.png (PNG copy)>] [46
+ <./images/marcoteorico/literalcomp.png (PNG copy)>] [49
 
-] [47
+] [50
 
-] [48
+] [51
 
 ]
-<images/marcoteorico/types.png, id=1481, 383.93437pt x 371.88937pt>
+<images/marcoteorico/types.png, id=1568, 383.93437pt x 371.88937pt>
 File: images/marcoteorico/types.png Graphic file (type png)
 <use images/marcoteorico/types.png>
 Package pdftex.def Info: images/marcoteorico/types.png  used on input line 178.
 
 (pdftex.def)             Requested size: 174.91302pt x 169.42555pt.
- [49
+ [52
 
- <./images/marcoteorico/types.png (PNG copy)>] [50
+ <./images/marcoteorico/types.png (PNG copy)>] [53
 
-] [51
+] [54
 
-] [52
+] [55
 
 ]
-<images/desarrollo/networkArquitec/designNet.png, id=1597, 1320.43312pt x 356.8
+<images/desarrollo/networkArquitec/designNet.png, id=1684, 1320.43312pt x 356.8
 3313pt>
 File: images/desarrollo/networkArquitec/designNet.png Graphic file (type png)
 <use images/desarrollo/networkArquitec/designNet.png>
 Package pdftex.def Info: images/desarrollo/networkArquitec/designNet.png  used 
 on input line 223.
 (pdftex.def)             Requested size: 344.20024pt x 93.01399pt.
- [53
+ [56
 
- <./images/desarrollo/networkArquitec/designNet.png>] [54
-
-] [55
-
-] [56
-
-] [57
+ <./images/desarrollo/networkArquitec/designNet.png>] [57
 
 ] [58
 
 ] [59
 
+] [60
+
+] [61
+
+] [62
+
 ]
-<images/marcoteorico/Convolution_calculation1.jpg, id=1783, 691.08188pt x 491.5
+<images/marcoteorico/Convolution_calculation1.jpg, id=1870, 691.08188pt x 491.5
 8656pt>
 File: images/marcoteorico/Convolution_calculation1.jpg Graphic file (type jpg)
 <use images/marcoteorico/Convolution_calculation1.jpg>
 Package pdftex.def Info: images/marcoteorico/Convolution_calculation1.jpg  used
  on input line 270.
 (pdftex.def)             Requested size: 183.20964pt x 130.32233pt.
- [60
+ [63
 
  <./images/marcoteorico/Convolution_calculation1.jpg>]
-<images/marcoteorico/Convolution_calculation2.jpg, id=1810, 1013.28563pt x 472.
+<images/marcoteorico/Convolution_calculation2.jpg, id=1897, 1013.28563pt x 472.
 76625pt>
 File: images/marcoteorico/Convolution_calculation2.jpg Graphic file (type jpg)
 <use images/marcoteorico/Convolution_calculation2.jpg>
@@ -1389,21 +1398,21 @@ Package pdftex.def Info: images/marcoteorico/Convolution_calculation2.jpg  used
 Overfull \vbox (0.91583pt too high) detected at line 294
  []
 
-[61
+[64
 
- <./images/marcoteorico/Convolution_calculation2.jpg>] [62
-
-] [63
-
-] [64
-
-]
-[65
+ <./images/marcoteorico/Convolution_calculation2.jpg>] [65
 
 ] [66
 
+] [67
+
 ]
-<images/marcoteorico/sparceCon.png, id=1968, 380.17032pt x 373.395pt>
+[68
+
+] [69
+
+]
+<images/marcoteorico/sparceCon.png, id=2055, 380.17032pt x 373.395pt>
 File: images/marcoteorico/sparceCon.png Graphic file (type png)
 <use images/marcoteorico/sparceCon.png>
 Package pdftex.def Info: images/marcoteorico/sparceCon.png  used on input line 
@@ -1413,29 +1422,25 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 333.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 333.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 333.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 333.
- [67
+ [70
 
- <./images/marcoteorico/sparceCon.png (PNG copy)>] [68
-
-] [69
-
-]
-[70
-
-] [71
+ <./images/marcoteorico/sparceCon.png (PNG copy)>] [71
 
 ] [72
 
-] [73
+]
+[73
 
 ] [74
 
+] [75
+
+] [76
+
+] [77
+
 ]
-<images/marcoteorico/result_conv.png, id=2186, 595.47469pt x 432.11438pt>
+<images/marcoteorico/result_conv.png, id=2272, 595.47469pt x 432.11438pt>
 File: images/marcoteorico/result_conv.png Graphic file (type png)
 <use images/marcoteorico/result_conv.png>
 Package pdftex.def Info: images/marcoteorico/result_conv.png  used on input lin
@@ -1445,47 +1450,47 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 398.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 398.
- [75
+ [78
 
  <./images/marcoteorico/result_conv.png (PNG copy)>]
-<images/marcoteorico/stride.png, id=2215, 652.68843pt x 316.18124pt>
+<images/marcoteorico/stride.png, id=2301, 652.68843pt x 316.18124pt>
 File: images/marcoteorico/stride.png Graphic file (type png)
 <use images/marcoteorico/stride.png>
 Package pdftex.def Info: images/marcoteorico/stride.png  used on input line 427
 .
 (pdftex.def)             Requested size: 161.40892pt x 78.19116pt.
- [76
+ [79
 
  <./images/marcoteorico/stride.png (PNG copy)>]
-<images/marcoteorico/PAD2.png, id=2242, 240.9pt x 221.32687pt>
+<images/marcoteorico/PAD2.png, id=2329, 240.9pt x 221.32687pt>
 File: images/marcoteorico/PAD2.png Graphic file (type png)
 <use images/marcoteorico/PAD2.png>
 Package pdftex.def Info: images/marcoteorico/PAD2.png  used on input line 451.
 (pdftex.def)             Requested size: 137.678pt x 126.49533pt.
- [77
+ [80
 
- <./images/marcoteorico/PAD2.png (PNG copy)>] [78
+ <./images/marcoteorico/PAD2.png (PNG copy)>] [81
 
-] [79
+] [82
 
 ]
-<images/marcoteorico/endofConv.png, id=2327, 761.84625pt x 408.77719pt>
+<images/marcoteorico/endofConv.png, id=2413, 761.84625pt x 408.77719pt>
 File: images/marcoteorico/endofConv.png Graphic file (type png)
 <use images/marcoteorico/endofConv.png>
 Package pdftex.def Info: images/marcoteorico/endofConv.png  used on input line 
 501.
 (pdftex.def)             Requested size: 275.36124pt x 147.74599pt.
- [80
+ [83
 
  <./images/marcoteorico/endofConv.png>]
-<images/marcoteorico/activfunct.png, id=2356, 1588.93625pt x 464.73625pt>
+<images/marcoteorico/activfunct.png, id=2442, 1588.93625pt x 464.73625pt>
 File: images/marcoteorico/activfunct.png Graphic file (type png)
 <use images/marcoteorico/activfunct.png>
 Package pdftex.def Info: images/marcoteorico/activfunct.png  used on input line
  532.
 (pdftex.def)             Requested size: 267.3274pt x 78.18861pt.
 
-[81
+[84
 
  <./images/marcoteorico/activfunct.png (PNG copy)>]
 File: images/marcoteorico/activfunct.png Graphic file (type png)
@@ -1493,63 +1498,63 @@ File: images/marcoteorico/activfunct.png Graphic file (type png)
 Package pdftex.def Info: images/marcoteorico/activfunct.png  used on input line
  532.
 (pdftex.def)             Requested size: 267.3274pt x 78.18861pt.
- [82
+ [85
 
-] [83
+] [86
 
-] [84
+] [87
 
-] [85
-
-]
-[86
+] [88
 
 ]
-<images/marcoteorico/relu.png, id=2529, 428.35031pt x 207.02344pt>
+[89
+
+]
+<images/marcoteorico/relu.png, id=2615, 428.35031pt x 207.02344pt>
 File: images/marcoteorico/relu.png Graphic file (type png)
 <use images/marcoteorico/relu.png>
 Package pdftex.def Info: images/marcoteorico/relu.png  used on input line 567.
 (pdftex.def)             Requested size: 206.52086pt x 99.81236pt.
- [87
+ [90
 
  <./images/marcoteorico/relu.png (PNG copy)>]
-<images/marcoteorico/relu2.png, id=2557, 1056.19594pt x 447.17062pt>
+<images/marcoteorico/relu2.png, id=2643, 1056.19594pt x 447.17062pt>
 File: images/marcoteorico/relu2.png Graphic file (type png)
 <use images/marcoteorico/relu2.png>
 Package pdftex.def Info: images/marcoteorico/relu2.png  used on input line 584.
 
 (pdftex.def)             Requested size: 206.51338pt x 87.43332pt.
- [88
+ [91
 
  <./images/marcoteorico/relu2.png>]
-<images/marcoteorico/relu3.png, id=2586, 551.81157pt x 422.32782pt>
+<images/marcoteorico/relu3.png, id=2673, 551.81157pt x 422.32782pt>
 File: images/marcoteorico/relu3.png Graphic file (type png)
 <use images/marcoteorico/relu3.png>
 Package pdftex.def Info: images/marcoteorico/relu3.png  used on input line 601.
 
 (pdftex.def)             Requested size: 170.28519pt x 130.3274pt.
- [89
+ [92
 
  <./images/marcoteorico/relu3.png>]
-<images/marcoteorico/dropout_sample.png, id=2615, 624.08156pt x 277.78781pt>
+<images/marcoteorico/dropout_sample.png, id=2702, 624.08156pt x 277.78781pt>
 File: images/marcoteorico/dropout_sample.png Graphic file (type png)
 <use images/marcoteorico/dropout_sample.png>
 Package pdftex.def Info: images/marcoteorico/dropout_sample.png  used on input 
 line 621.
 (pdftex.def)             Requested size: 206.5189pt x 91.92458pt.
- [90
+ [93
 
  <./images/marcoteorico/dropout_sample.png>]
-<images/marcoteorico/dropout.png, id=2645, 389.20406pt x 146.79843pt>
+<images/marcoteorico/dropout.png, id=2732, 389.20406pt x 146.79843pt>
 File: images/marcoteorico/dropout.png Graphic file (type png)
 <use images/marcoteorico/dropout.png>
 Package pdftex.def Info: images/marcoteorico/dropout.png  used on input line 64
 3.
 (pdftex.def)             Requested size: 206.5266pt x 77.89687pt.
- [91
+ [94
 
  <./images/marcoteorico/dropout.png (PNG copy)>]
-<images/marcoteorico/pooling.png, id=2673, 459.96844pt x 175.40532pt>
+<images/marcoteorico/pooling.png, id=2759, 459.96844pt x 175.40532pt>
 File: images/marcoteorico/pooling.png Graphic file (type png)
 <use images/marcoteorico/pooling.png>
 Package pdftex.def Info: images/marcoteorico/pooling.png  used on input line 67
@@ -1559,7 +1564,7 @@ Package pdftex.def Info: images/marcoteorico/pooling.png  used on input line 67
 Overfull \vbox (3.14662pt too high) detected at line 670
  []
 
-[92
+[95
 
  <./images/marcoteorico/pooling.png (PNG copy)>]
 File: images/marcoteorico/pooling.png Graphic file (type png)
@@ -1571,7 +1576,7 @@ Package pdftex.def Info: images/marcoteorico/pooling.png  used on input line 67
 Overfull \vbox (3.14662pt too high) detected at line 670
  []
 
-[93
+[96
 
 ]
 File: images/marcoteorico/pooling.png Graphic file (type png)
@@ -1583,19 +1588,19 @@ Package pdftex.def Info: images/marcoteorico/pooling.png  used on input line 67
 Overfull \vbox (3.14662pt too high) detected at line 670
  []
 
-[94
+[97
 
 ]
-<images/marcoteorico/pool1.png, id=2756, 697.10437pt x 286.82156pt>
+<images/marcoteorico/pool1.png, id=2843, 697.10437pt x 286.82156pt>
 File: images/marcoteorico/pool1.png Graphic file (type png)
 <use images/marcoteorico/pool1.png>
 Package pdftex.def Info: images/marcoteorico/pool1.png  used on input line 695.
 
 (pdftex.def)             Requested size: 172.09508pt x 70.80801pt.
- [95
+ [98
 
  <./images/marcoteorico/pool1.png (PNG copy)>]
-<images/marcoteorico/pool2.png, id=2784, 657.95813pt x 487.8225pt>
+<images/marcoteorico/pool2.png, id=2871, 657.95813pt x 487.8225pt>
 File: images/marcoteorico/pool2.png Graphic file (type png)
 <use images/marcoteorico/pool2.png>
 Package pdftex.def Info: images/marcoteorico/pool2.png  used on input line 719.
@@ -1605,28 +1610,28 @@ Package pdftex.def Info: images/marcoteorico/pool2.png  used on input line 719.
 Overfull \vbox (3.27649pt too high) detected at line 719
  []
 
-[96
+[99
 
  <./images/marcoteorico/pool2.png (PNG copy)>]
-<images/marcoteorico/endofLayers1.png, id=2812, 1043.39813pt x 388.45125pt>
+<images/marcoteorico/endofLayers1.png, id=2899, 1043.39813pt x 388.45125pt>
 File: images/marcoteorico/endofLayers1.png Graphic file (type png)
 <use images/marcoteorico/endofLayers1.png>
 Package pdftex.def Info: images/marcoteorico/endofLayers1.png  used on input li
 ne 746.
 (pdftex.def)             Requested size: 309.77397pt x 115.3271pt.
- [97
+ [100
 
  <./images/marcoteorico/endofLayers1.png>]
-<images/marcoteorico/endofLayers2.png, id=2842, 1141.26375pt x 283.0575pt>
+<images/marcoteorico/endofLayers2.png, id=2928, 1141.26375pt x 283.0575pt>
 File: images/marcoteorico/endofLayers2.png Graphic file (type png)
 <use images/marcoteorico/endofLayers2.png>
 Package pdftex.def Info: images/marcoteorico/endofLayers2.png  used on input li
 ne 771.
 (pdftex.def)             Requested size: 275.35428pt x 68.29367pt.
- [98
+ [101
 
  <./images/marcoteorico/endofLayers2.png>]
-<images/marcoteorico/prevFC.png, id=2871, 230.36063pt x 429.10312pt>
+<images/marcoteorico/prevFC.png, id=2957, 230.36063pt x 429.10312pt>
 File: images/marcoteorico/prevFC.png Graphic file (type png)
 <use images/marcoteorico/prevFC.png>
 Package pdftex.def Info: images/marcoteorico/prevFC.png  used on input line 803
@@ -1636,35 +1641,29 @@ Package pdftex.def Info: images/marcoteorico/prevFC.png  used on input line 803
 Overfull \vbox (4.51715pt too high) detected at line 803
  []
 
-[99
+[102
 
- <./images/marcoteorico/prevFC.png>] [100
-
-] [101
-
-] [102
-
-] [103
+ <./images/marcoteorico/prevFC.png>] [103
 
 ] [104
 
 ] [105
 
+] [106
+
+] [107
+
+] [108
+
 ]
-[106
+[109
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 880.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 880.
- [107
-
-] [108
-
-] [109
-
-] [110
+ [110
 
 ] [111
 
@@ -1676,8 +1675,14 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5> not available
 
 ] [115
 
+] [116
+
+] [117
+
+] [118
+
 ]
-<images/desarrollo/entrenamiento/LR.png, id=3334, 781.41937pt x 323.70938pt>
+<images/desarrollo/entrenamiento/LR.png, id=3420, 781.41937pt x 323.70938pt>
 File: images/desarrollo/entrenamiento/LR.png Graphic file (type png)
 <use images/desarrollo/entrenamiento/LR.png>
 Package pdftex.def Info: images/desarrollo/entrenamiento/LR.png  used on input 
@@ -1692,44 +1697,44 @@ Overfull \hbox (20.00003pt too wide) in paragraph at lines 951--951
 Overfull \vbox (31.15727pt too high) detected at line 951
  []
 
-[116
+[119
 
  <./images/desarrollo/entrenamiento/LR.png>]) (CAP3.TEX (start.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-[117
+[120
 
 ]
-<images/intro/disenho.png, id=3405, 1257.94969pt x 695.59875pt>
+<images/intro/disenho.png, id=3491, 1257.94969pt x 695.59875pt>
 File: images/intro/disenho.png Graphic file (type png)
 <use images/intro/disenho.png>
 Package pdftex.def Info: images/intro/disenho.png  used on input line 22.
 (pdftex.def)             Requested size: 309.7781pt x 171.28822pt.
- [118
+ [121
 
  <./images/intro/disenho.png>]
-<images/desarrollo/histograms/initial39209.png, id=3433, 1282.7925pt x 531.4856
+<images/desarrollo/histograms/initial39209.png, id=3520, 1282.7925pt x 531.4856
 3pt>
 File: images/desarrollo/histograms/initial39209.png Graphic file (type png)
 <use images/desarrollo/histograms/initial39209.png>
 Package pdftex.def Info: images/desarrollo/histograms/initial39209.png  used on
  input line 45.
 (pdftex.def)             Requested size: 309.77515pt x 128.3458pt.
- [119
+ [122
 
  <./images/desarrollo/histograms/initial39209.png>]
-<images/desarrollo/histograms/inicioTrain614.png, id=3461, 838.63312pt x 449.42
+<images/desarrollo/histograms/inicioTrain614.png, id=3548, 838.63312pt x 449.42
 906pt>
 File: images/desarrollo/histograms/inicioTrain614.png Graphic file (type png)
 <use images/desarrollo/histograms/inicioTrain614.png>
 Package pdftex.def Info: images/desarrollo/histograms/inicioTrain614.png  used 
 on input line 68.
 (pdftex.def)             Requested size: 309.77753pt x 166.01183pt.
- [120
+ [123
 
  <./images/desarrollo/histograms/inicioTrain614.png>]
-<images/desarrollo/histograms/initialTest12630.png, id=3489, 1290.32062pt x 637
+<images/desarrollo/histograms/initialTest12630.png, id=3576, 1290.32062pt x 637
 .63219pt>
 File: images/desarrollo/histograms/initialTest12630.png Graphic file (type png)
 
@@ -1738,10 +1743,10 @@ Package pdftex.def Info: images/desarrollo/histograms/initialTest12630.png  use
 d on input line 92.
 (pdftex.def)             Requested size: 309.76202pt x 153.07376pt.
 
-[121
+[124
 
  <./images/desarrollo/histograms/initialTest12630.png>]
-<images/desarrollo/histograms/PeruinitialTest4698.png, id=3518, 1186.4325pt x 6
+<images/desarrollo/histograms/PeruinitialTest4698.png, id=3604, 1186.4325pt x 6
 48.17157pt>
 File: images/desarrollo/histograms/PeruinitialTest4698.png Graphic file (type p
 ng)
@@ -1749,10 +1754,10 @@ ng)
 Package pdftex.def Info: images/desarrollo/histograms/PeruinitialTest4698.png  
 used on input line 115.
 (pdftex.def)             Requested size: 309.76863pt x 169.23273pt.
- [122
+ [125
 
  <./images/desarrollo/histograms/PeruinitialTest4698.png>]
-<images/desarrollo/Augment/flippedHorizontally.png, id=3546, 211.54031pt x 663.
+<images/desarrollo/Augment/flippedHorizontally.png, id=3632, 211.54031pt x 663.
 98062pt>
 File: images/desarrollo/Augment/flippedHorizontally.png Graphic file (type png)
 
@@ -1760,7 +1765,7 @@ File: images/desarrollo/Augment/flippedHorizontally.png Graphic file (type png)
 Package pdftex.def Info: images/desarrollo/Augment/flippedHorizontally.png  use
 d on input line 152.
 (pdftex.def)             Requested size: 53.97595pt x 169.41919pt.
-<images/desarrollo/Augment/flippableVertically.png, id=3547, 361.35pt x 685.119
+<images/desarrollo/Augment/flippableVertically.png, id=3633, 361.35pt x 685.119
 6pt>
 File: images/desarrollo/Augment/flippableVertically.png Graphic file (type png)
 
@@ -1768,11 +1773,11 @@ File: images/desarrollo/Augment/flippableVertically.png Graphic file (type png)
 Package pdftex.def Info: images/desarrollo/Augment/flippableVertically.png  use
 d on input line 152.
 (pdftex.def)             Requested size: 89.35582pt x 169.41866pt.
- [123
+ [126
 
  <./images/desarrollo/Augment/flippedHorizontally.png> <./images/desarrollo/Aug
 ment/flippableVertically.png>]
-<images/desarrollo/Augment/flippable_both.png, id=3576, 319.4334pt x 141.6492pt
+<images/desarrollo/Augment/flippable_both.png, id=3662, 319.4334pt x 141.6492pt
 >
 File: images/desarrollo/Augment/flippable_both.png Graphic file (type png)
 <use images/desarrollo/Augment/flippable_both.png>
@@ -1780,20 +1785,20 @@ Package pdftex.def Info: images/desarrollo/Augment/flippable_both.png  used on
 input line 171.
 (pdftex.def)             Requested size: 240.94408pt x 106.84396pt.
 
-[124
+[127
 
  <./images/desarrollo/Augment/flippable_both.png>]
-<images/desarrollo/Augment/cross_flippable.png, id=3604, 312.9291pt x 548.5293p
+<images/desarrollo/Augment/cross_flippable.png, id=3691, 312.9291pt x 548.5293p
 t>
 File: images/desarrollo/Augment/cross_flippable.png Graphic file (type png)
 <use images/desarrollo/Augment/cross_flippable.png>
 Package pdftex.def Info: images/desarrollo/Augment/cross_flippable.png  used on
  input line 190.
 (pdftex.def)             Requested size: 96.65366pt x 169.42294pt.
- [125
+ [128
 
  <./images/desarrollo/Augment/cross_flippable.png>]
-<images/desarrollo/histograms/train_flipped63538.png, id=3632, 1167.61218pt x 6
+<images/desarrollo/histograms/train_flipped63538.png, id=3719, 1167.61218pt x 6
 10.53094pt>
 File: images/desarrollo/histograms/train_flipped63538.png Graphic file (type pn
 g)
@@ -1801,10 +1806,10 @@ g)
 Package pdftex.def Info: images/desarrollo/histograms/train_flipped63538.png  u
 sed on input line 210.
 (pdftex.def)             Requested size: 275.35098pt x 143.97784pt.
- [126
+ [129
 
  <./images/desarrollo/histograms/train_flipped63538.png>]
-<images/desarrollo/Augment/projection_transform.png, id=3660, 1020.81375pt x 54
+<images/desarrollo/Augment/projection_transform.png, id=3747, 1020.81375pt x 54
 4.28343pt>
 File: images/desarrollo/Augment/projection_transform.png Graphic file (type png
 )
@@ -1812,10 +1817,10 @@ File: images/desarrollo/Augment/projection_transform.png Graphic file (type png
 Package pdftex.def Info: images/desarrollo/Augment/projection_transform.png  us
 ed on input line 232.
 (pdftex.def)             Requested size: 275.3586pt x 146.8173pt.
- [127
+ [130
 
  <./images/desarrollo/Augment/projection_transform.png>]
-<images/desarrollo/Augment/fixedrotation.png, id=3689, 836.3747pt x 450.9347pt>
+<images/desarrollo/Augment/fixedrotation.png, id=3775, 836.3747pt x 450.9347pt>
 
 File: images/desarrollo/Augment/fixedrotation.png Graphic file (type png)
 <use images/desarrollo/Augment/fixedrotation.png>
@@ -1823,19 +1828,19 @@ Package pdftex.def Info: images/desarrollo/Augment/fixedrotation.png  used on i
 nput line 258.
 (pdftex.def)             Requested size: 275.36641pt x 148.46487pt.
 
-[128
+[131
 
  <./images/desarrollo/Augment/fixedrotation.png>]
-<images/desarrollo/Augment/zoom_inv.png, id=3717, 1115.66812pt x 593.96906pt>
+<images/desarrollo/Augment/zoom_inv.png, id=3803, 1115.66812pt x 593.96906pt>
 File: images/desarrollo/Augment/zoom_inv.png Graphic file (type png)
 <use images/desarrollo/Augment/zoom_inv.png>
 Package pdftex.def Info: images/desarrollo/Augment/zoom_inv.png  used on input 
 line 281.
 (pdftex.def)             Requested size: 275.35838pt x 146.59769pt.
- [129
+ [132
 
  <./images/desarrollo/Augment/zoom_inv.png>]
-<images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition.png, id=3745, 30
+<images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition.png, id=3831, 30
 9.40594pt x 616.55344pt>
 File: images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition.png Graphic
  file (type png)
@@ -1847,10 +1852,10 @@ etition.png  used on input line 299.
 Overfull \vbox (15.47485pt too high) detected at line 299
  []
 
-[130
+[133
 
  <./images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition.png>]
-<images/desarrollo/histograms/train_extended_balanced270900.png, id=3773, 1200.
+<images/desarrollo/histograms/train_extended_balanced270900.png, id=3860, 1200.
 73593pt x 654.19406pt>
 File: images/desarrollo/histograms/train_extended_balanced270900.png Graphic fi
 le (type png)
@@ -1859,10 +1864,10 @@ Package pdftex.def Info: images/desarrollo/histograms/train_extended_balanced27
 0900.png  used on input line 319.
 (pdftex.def)             Requested size: 309.7655pt x 168.76878pt.
 
-[131
+[134
 
  <./images/desarrollo/histograms/train_extended_balanced270900.png>]
-<images/desarrollo/histograms/train_extended_per_51_31314.png, id=3801, 1169.87
+<images/desarrollo/histograms/train_extended_per_51_31314.png, id=3888, 1169.87
 062pt x 658.71094pt>
 File: images/desarrollo/histograms/train_extended_per_51_31314.png Graphic file
  (type png)
@@ -1871,10 +1876,10 @@ Package pdftex.def Info: images/desarrollo/histograms/train_extended_per_51_313
 14.png  used on input line 335.
 (pdftex.def)             Requested size: 309.78218pt x 174.4269pt.
 
-[132
+[135
 
  <./images/desarrollo/histograms/train_extended_per_51_31314.png>]
-<images/desarrollo/Normalization_Processing/norm_test2.png, id=3830, 578.16pt x
+<images/desarrollo/Normalization_Processing/norm_test2.png, id=3917, 578.16pt x
  69.3792pt>
 File: images/desarrollo/Normalization_Processing/norm_test2.png Graphic file (t
 ype png)
@@ -1882,7 +1887,7 @@ ype png)
 Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test2.
 png  used on input line 357.
 (pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
- [133
+ [136
 
  <./images/desarrollo/Normalization_Processing/norm_test2.png>]
 File: images/desarrollo/Normalization_Processing/norm_test2.png Graphic file (t
@@ -1891,7 +1896,7 @@ ype png)
 Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test2.
 png  used on input line 357.
 (pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
- [134
+ [137
 
 ]
 File: images/desarrollo/Normalization_Processing/norm_test2.png Graphic file (t
@@ -1900,10 +1905,10 @@ ype png)
 Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test2.
 png  used on input line 357.
 (pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
- [135
+ [138
 
 ]
-<images/desarrollo/Normalization_Processing/proc_test2.png, id=3918, 578.16pt x
+<images/desarrollo/Normalization_Processing/proc_test2.png, id=4004, 578.16pt x
  69.3792pt>
 File: images/desarrollo/Normalization_Processing/proc_test2.png Graphic file (t
 ype png)
@@ -1912,20 +1917,14 @@ Package pdftex.def Info: images/desarrollo/Normalization_Processing/proc_test2.
 png  used on input line 375.
 (pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
 
-[136
+[139
 
  <./images/desarrollo/Normalization_Processing/proc_test2.png>]
 Overfull \hbox (7.64621pt too wide) in paragraph at lines 405--405
  [] 
  []
 
-[137
-
-] [138
-
-] [139
-
-] [140
+[140
 
 ] [141
 
@@ -1941,152 +1940,152 @@ Overfull \hbox (7.64621pt too wide) in paragraph at lines 405--405
 
 ] [147
 
+] [148
+
+] [149
+
+] [150
+
 ]
-<images/desarrollo/trainResults/germanSummary_entreAcierto.png, id=4236, 992.95
+<images/desarrollo/trainResults/germanSummary_entreAcierto.png, id=4322, 992.95
 969pt x 277.78781pt>
 File: images/desarrollo/trainResults/germanSummary_entreAcierto.png Graphic fil
 e (type png)
 <use images/desarrollo/trainResults/germanSummary_entreAcierto.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_entreAcie
-rto.png  used on input line 758.
+rto.png  used on input line 756.
 (pdftex.def)             Requested size: 344.19266pt x 96.29042pt.
-<images/desarrollo/trainResults/germanSummary_entreError.png, id=4237, 1088.566
+ [151
+
+ <./images/desarrollo/trainResults/germanSummary_entreAcierto.png>]
+<images/desarrollo/trainResults/germanSummary_entreError.png, id=4351, 1088.566
 88pt x 301.125pt>
 File: images/desarrollo/trainResults/germanSummary_entreError.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/germanSummary_entreError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_entreErro
-r.png  used on input line 758.
+r.png  used on input line 774.
 (pdftex.def)             Requested size: 344.19598pt x 95.21326pt.
+ [152
 
-Overfull \vbox (10.76053pt too high) detected at line 758
- []
-
-[148
-
- <./images/desarrollo/trainResults/germanSummary_entreAcierto.png> <./images/de
-sarrollo/trainResults/germanSummary_entreError.png>]
-<images/desarrollo/trainResults/germanSummary_validAcierto.png, id=4266, 1118.6
+ <./images/desarrollo/trainResults/germanSummary_entreError.png>]
+<images/desarrollo/trainResults/germanSummary_validAcierto.png, id=4379, 1118.6
 7938pt x 312.41719pt>
 File: images/desarrollo/trainResults/germanSummary_validAcierto.png Graphic fil
 e (type png)
 <use images/desarrollo/trainResults/germanSummary_validAcierto.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_validAcie
-rto.png  used on input line 781.
+rto.png  used on input line 791.
 (pdftex.def)             Requested size: 344.19243pt x 96.12372pt.
-<images/desarrollo/trainResults/germanSummary_validError.png, id=4267, 1099.859
+ [153
+
+ <./images/desarrollo/trainResults/germanSummary_validAcierto.png>]
+<images/desarrollo/trainResults/germanSummary_validError.png, id=4407, 1099.859
 07pt x 308.65312pt>
 File: images/desarrollo/trainResults/germanSummary_validError.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/germanSummary_validError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_validErro
-r.png  used on input line 781.
+r.png  used on input line 809.
 (pdftex.def)             Requested size: 344.1918pt x 96.59044pt.
+ [154
 
-Overfull \vbox (2.29228pt too high) detected at line 781
- []
-
-[149
-
- <./images/desarrollo/trainResults/germanSummary_validAcierto.png> <./images/de
-sarrollo/trainResults/germanSummary_validError.png>]
-<images/desarrollo/trainResults/peruSummary_entreAcierto.png, id=4296, 1209.769
+ <./images/desarrollo/trainResults/germanSummary_validError.png>]
+<images/desarrollo/trainResults/peruSummary_entreAcierto.png, id=4435, 1209.769
 68pt x 347.04657pt>
 File: images/desarrollo/trainResults/peruSummary_entreAcierto.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/peruSummary_entreAcierto.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_entreAciert
-o.png  used on input line 799.
+o.png  used on input line 829.
 (pdftex.def)             Requested size: 344.19724pt x 98.73984pt.
- [150
+ [155
 
  <./images/desarrollo/trainResults/peruSummary_entreAcierto.png>]
-<images/desarrollo/trainResults/peruSummary_entreError.png, id=4324, 1228.59pt 
+<images/desarrollo/trainResults/peruSummary_entreError.png, id=4463, 1228.59pt 
 x 527.72156pt>
 File: images/desarrollo/trainResults/peruSummary_entreError.png Graphic file (t
 ype png)
 <use images/desarrollo/trainResults/peruSummary_entreError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_entreError.
-png  used on input line 816.
+png  used on input line 847.
 (pdftex.def)             Requested size: 344.19032pt x 147.84155pt.
- [151
+ [156
 
  <./images/desarrollo/trainResults/peruSummary_entreError.png>]
-<images/desarrollo/trainResults/peruSummary_validAcierto.png, id=4352, 1246.657
+<images/desarrollo/trainResults/peruSummary_validAcierto.png, id=4491, 1246.657
 5pt x 339.51843pt>
 File: images/desarrollo/trainResults/peruSummary_validAcierto.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/peruSummary_validAcierto.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_validAciert
-o.png  used on input line 838.
+o.png  used on input line 865.
 (pdftex.def)             Requested size: 344.19197pt x 93.73827pt.
-<images/desarrollo/trainResults/peruSummary_validError.png, id=4353, 1224.07312
+ [157
+
+ <./images/desarrollo/trainResults/peruSummary_validAcierto.png>]
+<images/desarrollo/trainResults/peruSummary_validError.png, id=4519, 1224.07312
 pt x 356.83313pt>
 File: images/desarrollo/trainResults/peruSummary_validError.png Graphic file (t
 ype png)
 <use images/desarrollo/trainResults/peruSummary_validError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_validError.
-png  used on input line 838.
+png  used on input line 882.
 (pdftex.def)             Requested size: 344.195pt x 100.33728pt.
+ [158
 
-Overfull \vbox (3.65367pt too high) detected at line 838
- []
-
-[152
-
- <./images/desarrollo/trainResults/peruSummary_validAcierto.png> <./images/desa
-rrollo/trainResults/peruSummary_validError.png>]) (CAP4.TEX (start.toc
+ <./images/desarrollo/trainResults/peruSummary_validError.png>])
+(CAP4.TEX (start.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
-[153
+) [159
 
-] [154
-
-] [155
-
-] [156
-
-] [157
-
-] [158
-
-] [159
-
-] (start.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-) [160
+] [160
 
 ] [161
 
 ] [162
 
-]
-[163
+] [163
 
 ] [164
 
 ] [165
 
-] [166
+] (start.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+[166
+
+] [167
+
+] [168
+
+] [169
+
+] [170
+
+] [171
+
+] [172
 
 ] (start.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [167
+) [173
 
 ] (start.bbl
-Underfull \hbox (badness 6893) in paragraph at lines 55--58
+Underfull \hbox (badness 6893) in paragraph at lines 66--69
 []\T1/phv/m/n/10 OMS (2017).  10 da-tos so-bre la se-gu-ri-dad vial en el mun-d
 o.
  []
 
 )
-Overfull \vbox (297.12851pt too high) detected at line 70
+Overfull \vbox (369.12851pt too high) detected at line 70
  []
 
-[168
+[174
 
 ])
 \tf@nav=\write6
@@ -2107,13 +2106,13 @@ LaTeX Info: Redefining \% on input line 24.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `start.out' has not changed.
-(rerunfilecheck)             Checksum: 496887CCF4121271D48BBAADEA1E42DC;1025.
+(rerunfilecheck)             Checksum: EB7013CE1A893E6B9F4467DF6E294446;1025.
  ) 
 Here is how much of TeX's memory you used:
- 20278 strings out of 492970
- 383924 string characters out of 3125706
- 470055 words of memory out of 3000000
- 23182 multiletter control sequences out of 15000+200000
+ 20307 strings out of 492970
+ 384263 string characters out of 3125706
+ 470308 words of memory out of 3000000
+ 23197 multiletter control sequences out of 15000+200000
  63509 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,68p,903b,880s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2136,9 +2135,9 @@ uhvb8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 helvetic/uhvbo8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/urw/helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on start.pdf (168 pages, 7668089 bytes).
+Output written on start.pdf (174 pages, 7710663 bytes).
 PDF statistics:
- 4971 PDF objects out of 5155 (max. 8388607)
- 370 named destinations out of 1000 (max. 500000)
+ 5138 PDF objects out of 5155 (max. 8388607)
+ 384 named destinations out of 1000 (max. 500000)
  479 words of extra memory for PDF output out of 10000 (max. 10000000)
 
