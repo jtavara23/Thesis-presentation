@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  31 MAR 2019 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  31 MAR 2019 13:03
 entering extended mode
 **"D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
 ("D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
@@ -2164,11 +2164,13 @@ Underfull \hbox (badness 6893) in paragraph at lines 66--69
 o.
  []
 
-)
-Overfull \vbox (393.12851pt too high) detected at line 10
- []
+) [183
 
-[183
+] [184
+
+
+] [185
+
 
 ])
 \tf@nav=\write6
@@ -2192,10 +2194,10 @@ Package rerunfilecheck Info: File `start.out' has not changed.
 (rerunfilecheck)             Checksum: EB7013CE1A893E6B9F4467DF6E294446;1025.
  ) 
 Here is how much of TeX's memory you used:
- 20382 strings out of 492970
- 386321 string characters out of 3125706
- 472235 words of memory out of 3000000
- 23243 multiletter control sequences out of 15000+200000
+ 20390 strings out of 492970
+ 386399 string characters out of 3125706
+ 472315 words of memory out of 3000000
+ 23247 multiletter control sequences out of 15000+200000
  66359 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,68p,903b,880s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2219,9 +2221,9 @@ rier/ucrr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 nts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on start.pdf (183 pages, 8773107 bytes).
+Output written on start.pdf (185 pages, 8784247 bytes).
 PDF statistics:
- 5412 PDF objects out of 6186 (max. 8388607)
- 403 named destinations out of 1000 (max. 500000)
+ 5464 PDF objects out of 6186 (max. 8388607)
+ 407 named destinations out of 1000 (max. 500000)
  509 words of extra memory for PDF output out of 10000 (max. 10000000)
 
