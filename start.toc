@@ -12,5 +12,5 @@
 \beamer@subsectionintoc {6}{5}{Validaci\IeC {\'o}n Cruzada}{105}{0}{6}
 \beamer@sectionintoc {7}{Propuesta o tema central de la tesis}{120}{0}{7}
 \beamer@sectionintoc {8}{Resultados de la tesis}{159}{0}{8}
-\beamer@sectionintoc {9}{Consideraciones finales}{166}{0}{9}
-\beamer@sectionintoc {10}{Referencias bibliograficas}{173}{0}{10}
+\beamer@sectionintoc {9}{Consideraciones finales}{173}{0}{9}
+\beamer@sectionintoc {10}{Referencias bibliograficas}{182}{0}{10}

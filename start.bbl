@@ -76,6 +76,10 @@ Rohrer, B. (2016).
 Romero, R.~F. (2015).
 \newblock Scc0270/scc5809 - redes neurais - deep learning.
 
+\bibitem[Sandoval and Prieto, 2009]{SandovalCereza}
+Sandoval and Prieto (2009).
+\newblock Procesamiento de imágenes para la clasificación de café cereza.
+
 \bibitem[Sermanet and LeCun, 2011]{Multi_scale_feat}
 Sermanet, P. and LeCun, Y. (2011).
 \newblock Traffic sign recognition with multi-scale convolutional networks.

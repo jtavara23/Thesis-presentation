@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  9 DEC 2018 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  31 MAR 2019 12:53
 entering extended mode
 **"D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
 ("D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
@@ -2040,7 +2040,10 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [159
 
-] [160
+]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
+ [160
 
 ] [161
 
@@ -2050,30 +2053,110 @@ LaTeX Info: Redefining \% on input line 1.
 
 ] [164
 
-] [165
+]
+Overfull \hbox (4.33731pt too wide) in paragraph at lines 81--81
+ [] 
+ []
 
-] (start.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
-[166
+[165
 
-] [167
+]
+<images/desarrollo/testResults/german/model_A_A_1.png, id=4750, 1387.584pt x 71
+0.4141pt>
+File: images/desarrollo/testResults/german/model_A_A_1.png Graphic file (type p
+ng)
+<use images/desarrollo/testResults/german/model_A_A_1.png>
+Package pdftex.def Info: images/desarrollo/testResults/german/model_A_A_1.png  
+used on input line 103.
+(pdftex.def)             Requested size: 344.18503pt x 176.21556pt.
+ [166
 
-] [168
+ <./images/desarrollo/testResults/german/model_A_A_1.png>]
+<images/desarrollo/testResults/german/ROC_curve_modelE.png, id=4778, 1266.98344
+pt x 744.53156pt>
+File: images/desarrollo/testResults/german/ROC_curve_modelE.png Graphic file (t
+ype png)
+<use images/desarrollo/testResults/german/ROC_curve_modelE.png>
+Package pdftex.def Info: images/desarrollo/testResults/german/ROC_curve_modelE.
+png  used on input line 123.
+(pdftex.def)             Requested size: 310.48132pt x 182.45158pt.
+ [167
 
-] [169
+ <./images/desarrollo/testResults/german/ROC_curve_modelE.png>]
+<images/desarrollo/testResults/german/PR_curve_modelE.png, id=4806, 1250.42157p
+t x 744.53156pt>
+File: images/desarrollo/testResults/german/PR_curve_modelE.png Graphic file (ty
+pe png)
+<use images/desarrollo/testResults/german/PR_curve_modelE.png>
+Package pdftex.def Info: images/desarrollo/testResults/german/PR_curve_modelE.p
+ng  used on input line 143.
+(pdftex.def)             Requested size: 306.42274pt x 182.45158pt.
+ [168
 
-] [170
+ <./images/desarrollo/testResults/german/PR_curve_modelE.png>]
+Overfull \hbox (4.33731pt too wide) in paragraph at lines 172--172
+ [] 
+ []
 
-] [171
+[169
 
-] [172
+]
+<images/desarrollo/testResults/peru/modelE.png, id=4861, 722.7pt x 722.7pt>
+File: images/desarrollo/testResults/peru/modelE.png Graphic file (type png)
+<use images/desarrollo/testResults/peru/modelE.png>
+Package pdftex.def Info: images/desarrollo/testResults/peru/modelE.png  used on
+ input line 195.
+(pdftex.def)             Requested size: 182.44998pt x 182.44998pt.
+ [170
 
-] (start.toc
+ <./images/desarrollo/testResults/peru/modelE.png>]
+<images/desarrollo/testResults/peru/ROC_curve_modelE.png, id=4889, 1387.584pt x
+ 710.4141pt>
+File: images/desarrollo/testResults/peru/ROC_curve_modelE.png Graphic file (typ
+e png)
+<use images/desarrollo/testResults/peru/ROC_curve_modelE.png>
+Package pdftex.def Info: images/desarrollo/testResults/peru/ROC_curve_modelE.pn
+g  used on input line 215.
+(pdftex.def)             Requested size: 344.18503pt x 176.21556pt.
+ [171
+
+ <./images/desarrollo/testResults/peru/ROC_curve_modelE.png>]
+<images/desarrollo/testResults/peru/PR_curve_modelE.png, id=4916, 1387.584pt x 
+710.4141pt>
+File: images/desarrollo/testResults/peru/PR_curve_modelE.png Graphic file (type
+ png)
+<use images/desarrollo/testResults/peru/PR_curve_modelE.png>
+Package pdftex.def Info: images/desarrollo/testResults/peru/PR_curve_modelE.png
+  used on input line 235.
+(pdftex.def)             Requested size: 344.18503pt x 176.21556pt.
+ [172
+
+ <./images/desarrollo/testResults/peru/PR_curve_modelE.png>] (start.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [173
+
+] [174
+
+] [175
+
+] [176
+
+] [177
+
+]
+[178
+
+] [179
+
+] [180
+
+] [181
+
+]) (CAP5.TEX (start.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [182
 
 ] (start.bbl
 Underfull \hbox (badness 6893) in paragraph at lines 66--69
@@ -2082,10 +2165,10 @@ o.
  []
 
 )
-Overfull \vbox (369.12851pt too high) detected at line 70
+Overfull \vbox (393.12851pt too high) detected at line 10
  []
 
-[174
+[183
 
 ])
 \tf@nav=\write6
@@ -2097,23 +2180,23 @@ Overfull \vbox (369.12851pt too high) detected at line 70
 \tf@snm=\write8
 \openout8 = `start.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (start.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `start.out' has not changed.
 (rerunfilecheck)             Checksum: EB7013CE1A893E6B9F4467DF6E294446;1025.
  ) 
 Here is how much of TeX's memory you used:
- 20307 strings out of 492970
- 384263 string characters out of 3125706
- 470308 words of memory out of 3000000
- 23197 multiletter control sequences out of 15000+200000
- 63509 words of font info for 81 fonts, out of 3000000 for 9000
+ 20382 strings out of 492970
+ 386321 string characters out of 3125706
+ 472235 words of memory out of 3000000
+ 23243 multiletter control sequences out of 15000+200000
+ 66359 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,68p,903b,880s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
@@ -2126,18 +2209,19 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/
 Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmss10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmss8.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usuario/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Usuario/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam5.pfb><C:/Us
-ers/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
-b><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvb8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-helvetic/uhvbo8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on start.pdf (174 pages, 7710663 bytes).
+nts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Usuario/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usuario/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/U
+suario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/ms
+am5.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/cou
+rier/ucrr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/urw/helvetic/uhvb8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on start.pdf (183 pages, 8773107 bytes).
 PDF statistics:
- 5138 PDF objects out of 5155 (max. 8388607)
- 384 named destinations out of 1000 (max. 500000)
- 479 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5412 PDF objects out of 6186 (max. 8388607)
+ 403 named destinations out of 1000 (max. 500000)
+ 509 words of extra memory for PDF output out of 10000 (max. 10000000)
 
