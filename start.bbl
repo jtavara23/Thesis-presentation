@@ -16,6 +16,11 @@ Bishop, C.~M. (2006).
 Cireşan, D., Meier, U., Masci, J., and Schmidhuber, J. (2012).
 \newblock Multi-column deep neural network for traffic sign classification.
 \newblock {\em Neural Networks from IJCNN 2011}, 32(C):333 -- 338.
+\newblock http://www.deeplearningbook.org.
+
+\bibitem[Davis and Goadrich, 2006]{Davis-2006-RPR-1143844-1143874}
+Davis, J. and Goadrich, M. (2006).
+\newblock The relationship between precision-recall and roc curves.
 
 \bibitem[Dong and Zhou, 2008]{gradient}
 Dong, X. and Zhou, D.-X. (2008).
@@ -27,7 +32,12 @@ Dong, X. and Zhou, D.-X. (2008).
 Goodfellow, I., Bengio, Y., and Courville, A. (2016).
 \newblock {\em Deep Learning}.
 \newblock MIT Press.
-\newblock http://www.deeplearningbook.org.
+
+\bibitem[Gu et~al., 2015]{recentCNN}
+Gu, J., Wang, Z., Kuen, J., Ma, L., Shahroudy, A., Shuai, B., Liu, T., Wang,
+  X., and Wang, G. (2015).
+\newblock Recent advances in convolutional neural networks.
+\newblock {\em CoRR}, abs/1512.07108.
 
 \bibitem[Jia et~al., 2014]{caffe}
 Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R.,
@@ -39,16 +49,20 @@ Jia, Y., Shelhamer, E., Donahue, J., Karayev, S., Long, J., Girshick, R.,
 \bibitem[Jordan, 2018]{AdamImg}
 Jordan, J. (2018).
 \newblock Setting the learning rate of your neural network.
-\newblock [Online; accessed Agosto 08, 2018].
+\newblock https://www.jeremyjordan.me/nn-learning-rate.
+\newblock [Online; accesado Noviembre 23, 2018].
 
 \bibitem[Karpathy, 2016]{cs231n}
 Karpathy, A. (2016).
 \newblock Convolutional neural networks (cnns / convnets).
-\newblock {\em Cs231- Stanford Course}.
+\newblock http://cs231n.github.io/convolutional-networks/.
+\newblock [Online; accesado Noviembre 23, 2018].
 
 \bibitem[Krizhevsky et~al., 2012]{Krizhevsky2012}
 Krizhevsky, A., Sutskever, I., and Hinton, G. (2012).
-\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em ImageNet Classification with Deep Convolutional Neural
+  Networks}.
+\newblock Curran Associates, Inc.
 
 \bibitem[LeCun et~al., 1998]{LeCun}
 LeCun, Y., L.Botou, Y.Bengio, and P.Haffner (1998).
@@ -64,30 +78,20 @@ Nair, V. and Hinton, G.~E. (2010).
 
 \bibitem[OMS, 2017]{OMS}
 OMS (2017).
-\newblock 10 datos sobre la seguridad vial en el mundo.
+\newblock Organización mundial de la salud - 10 datos sobre la seguridad vial
+  en el mundo.
 \newblock http://www.who.int/features/factfiles/roadsafety/es/.
+\newblock [Online; accesado Agosto 23, 2018].
 
 \bibitem[Rohrer, 2016]{Rohrer}
 Rohrer, B. (2016).
 \newblock How convolutional neural networks work.
-\newblock {\em Data Science and Robots Blog}.
+\newblock [Online; accesado Octubre 23, 2018].
 
 \bibitem[Romero, 2015]{AulaDNN}
 Romero, R.~F. (2015).
 \newblock Scc0270/scc5809 - redes neurais - deep learning.
-
-\bibitem[Sandoval and Prieto, 2009]{SandovalCereza}
-Sandoval and Prieto (2009).
-\newblock Procesamiento de imágenes para la clasificación de café cereza.
-
-\bibitem[Sermanet and LeCun, 2011]{Multi_scale_feat}
-Sermanet, P. and LeCun, Y. (2011).
-\newblock Traffic sign recognition with multi-scale convolutional networks.
-
-\bibitem[SUTRAN, 2014]{SUTRAN}
-SUTRAN (2014).
-\newblock Texto unico ordenado del reglamento nacional de transito - codigo de
-  transito.
+\newblock {\em ICMC - USP}.
 
 \bibitem[Szegedy et~al., 2014]{Inception}
 Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S.~E., Anguelov, D., Erhan,
@@ -95,17 +99,16 @@ Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S.~E., Anguelov, D., Erhan,
 \newblock Going deeper with convolutions.
 \newblock {\em CoRR}, abs/1409.4842.
 
-\bibitem[Waze, 2016]{CNN}
-Waze (2016).
-\newblock Las mejores y peores ciudades para conducir en américa latina,
-  según waze.
-\newblock http://cnnespanol.cnn.com/2016/09/15/las-mejores-y-peores-ciudades.
-
 \bibitem[Yadav et~al., 2014]{CLAHE}
 Yadav, G., Maheshwari, S., and Agarwal, A. (2014).
 \newblock Contrast limited adaptive histogram equalization based enhancement
   for real time video system.
 \newblock In {\em 2014 International Conference on Advances in Computing,
   Communications and Informatics (ICACCI)}, pages 2392--2397.
+
+\bibitem[Zulma and Flavio, 2009]{SandovalCereza}
+Zulma, S. and Flavio, P. (2009).
+\newblock Procesamiento de imágenes para la clasificación de café cerez.
+\newblock {\em PROSPECTIVA}, 7:67--73.
 
 \end{thebibliography}

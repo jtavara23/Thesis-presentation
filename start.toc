@@ -1,16 +1,16 @@
 \babel@toc {spanish}{}
 \beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
 \beamer@sectionintoc {2}{Motivaci\IeC {\'o}n}{9}{0}{2}
-\beamer@sectionintoc {3}{Formulaci\IeC {\'o}n del problema}{12}{0}{3}
+\beamer@sectionintoc {3}{Formulaci\IeC {\'o}n del problema e Hip\IeC {\'o}tesis}{12}{0}{3}
 \beamer@sectionintoc {4}{Importancia de la investigaci\IeC {\'o}n}{14}{0}{4}
-\beamer@sectionintoc {5}{Contribuci\IeC {\'o}n de la investigaci\IeC {\'o}n}{25}{0}{5}
-\beamer@sectionintoc {6}{Marco te\IeC {\'o}rico}{30}{0}{6}
-\beamer@subsectionintoc {6}{1}{Aprendizaje Profundo}{31}{0}{6}
-\beamer@subsectionintoc {6}{2}{Red Convolucional}{43}{0}{6}
-\beamer@subsectionintoc {6}{3}{Arquitectura del Modelo}{52}{0}{6}
-\beamer@subsectionintoc {6}{4}{Componentes del Modelo}{56}{0}{6}
-\beamer@subsectionintoc {6}{5}{Validaci\IeC {\'o}n Cruzada}{104}{0}{6}
-\beamer@sectionintoc {7}{Propuesta o tema central de la tesis}{119}{0}{7}
-\beamer@sectionintoc {8}{Resultados de la tesis}{158}{0}{8}
-\beamer@sectionintoc {9}{Consideraciones finales}{172}{0}{9}
-\beamer@sectionintoc {10}{Referencias bibliograficas}{181}{0}{10}
+\beamer@sectionintoc {5}{Contribuci\IeC {\'o}n de la investigaci\IeC {\'o}n}{24}{0}{5}
+\beamer@sectionintoc {6}{Marco te\IeC {\'o}rico}{29}{0}{6}
+\beamer@subsectionintoc {6}{1}{Aprendizaje Profundo}{30}{0}{6}
+\beamer@subsectionintoc {6}{2}{Red Convolucional}{42}{0}{6}
+\beamer@subsectionintoc {6}{3}{Arquitectura del Modelo}{51}{0}{6}
+\beamer@subsectionintoc {6}{4}{Componentes del Modelo}{60}{0}{6}
+\beamer@subsectionintoc {6}{5}{Entrenamiento y Validaci\IeC {\'o}n}{108}{0}{6}
+\beamer@sectionintoc {7}{Propuesta o tema central de la tesis}{123}{0}{7}
+\beamer@sectionintoc {8}{Resultados de la tesis}{163}{0}{8}
+\beamer@sectionintoc {9}{Consideraciones finales}{178}{0}{9}
+\beamer@sectionintoc {10}{Referencias bibliograficas}{193}{0}{10}

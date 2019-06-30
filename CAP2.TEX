@@ -12,7 +12,7 @@
 	\begin{itemize}
 	\item<2->  El verdadero desafío para la inteligencia artificial fue y es resolver las tareas que son fáciles de realizar para las personas pero difíciles de describir de manera formal, problemas que resolvemos intuitivamente, que se sienten automáticos, como reconocer palabras, rostros u objetos en las imágenes \citep{Goodfellow-et-al-2016}.
 	\vskip 0.3cm
-	\item<3->El aprendizaje automático es considerada como la mejor técnica de la inteligencia artificial(IA); es decir, es el campo de la IA que hoy en día muestra la mayor promesa al proporcionar herramientas que la industria y la sociedad pueden usar para producir algún cambio. 
+	\item<3->El aprendizaje automático es considerada como la mejor técnica de la inteligencia artificial(IA); es decir, es el campo de la IA que hoy en día muestra la mayor promesa al proporcionar herramientas que la industria y la sociedad pueden usar para producir algún cambio, \citep{Goodfellow-et-al-2016}.
 
 	\vskip 0.3cm
 	\item<4-> En tal sentido,el aprendizaje automático toma algunas de las ideas centrales de la inteligencia artificial y las enfoca en resolver problemas del mundo real con redes neuronales diseñadas para imitar nuestra propia toma de decisiones. 
@@ -26,9 +26,9 @@
 \end{block}
 	
 	\begin{itemize}
-	\item<1->Por otro lado, el aprendizaje profundo o avanzado de máquinas (del inglés, {\bf deep learning}) se centra aún más estrechamente en un subconjunto de herramientas y técnicas del aprendizaje automático y los aplica a la solución de casi cualquier problema que requiera "pensamiento", ya sea humano o artificial.
+	\item<1->Por otro lado, el aprendizaje profundo o avanzado de máquinas (del inglés, {\bf deep learning}) se centra aún más estrechamente en un subconjunto de herramientas y técnicas del aprendizaje automático y los aplica a la solución de casi cualquier problema que requiera "pensamiento", ya sea humano o artificial \citep{Goodfellow-et-al-2016}.
 	\vskip 0.2cm
-	\item<2->Se puede sostener que el aprendizaje automático es el único enfoque viable para construir sistemas de inteligencia artificial que puedan operar en entornos complicados del mundo real y el {\bf aprendizaje profundo} es, a su vez, un tipo particular de aprendizaje automático que logra gran poder y flexibilidad al representar el mundo como una jerarquía de conceptos anidados, con cada concepto definido en relación con conceptos más simples y representaciones más abstractas calculadas en base a representaciones menos abstractas.
+	\item<2->Se puede sostener que el aprendizaje automático es el único enfoque viable para construir sistemas de inteligencia artificial que puedan operar en entornos complicados del mundo real y el {\bf aprendizaje profundo} es, a su vez, un tipo particular de aprendizaje automático que logra gran poder y flexibilidad al representar el mundo como una jerarquía de conceptos anidados, con cada concepto definido en relación con conceptos más simples y representaciones más abstractas calculadas en base a representaciones menos abstractas, \citep{Goodfellow-et-al-2016}.
 	% La siguiente es un diagrama de Venn que muestra cómo el aprendizaje profundo es una especie de aprendizaje de representación, que a su vez es una especie de aprendizaje automático, que se utiliza para muchos, pero no todos los enfoques de la IA. 
 	\end{itemize}
 }
@@ -40,12 +40,13 @@
 \begin{figure}[H]
 		\begin{center}
 		\includegraphics[width=0.7\textwidth,height=0.65\textheight,keepaspectratio]{images/marcoteorico/venn_diag}
-		\vskip -2cm
 		\end{center}
+
 		\begin{center}
+		\vskip -0.2cm
 		\caption{\small{Diagrama de Venn donde cada sección incluye un ejemplo de una tecnología de IA(ilustra la relación entre estas diferentes disciplinas de la IA)}}
 		\vskip -0.2cm
-		{\small{Fuente: \cite{Goodfellow-et-al-2016}}}
+		{\tiny{Fuente: \cite{Goodfellow-et-al-2016}}}
 		\end{center}
 
 	\end{figure}
@@ -80,11 +81,11 @@
 		\begin{center}
 		\includegraphics[width=0.7\textwidth,height=0.65\textheight,keepaspectratio]{images/marcoteorico/deepExam}
 		\end{center}
-		\vskip -0.5cm
 		\begin{center}
+		%\vskip 1cm
 		\caption{\small{El aprendizaje profundo permite a la computadora construir conceptos complejos a partir de conceptos más simples}}
-		\vskip -0.2cm
-		{\small{Fuente propia}}
+		\vskip -0.1cm
+		{\small{Fuente: Elaboración propia}}
 		\end{center}
 	\end{figure}
 }
@@ -100,7 +101,7 @@
 		\begin{itemize}
 			\item<1->Nueve de cada diez veces, cuando se escucha que el aprendizaje profundo rompe una nueva barrera tecnológica, las redes neuronales convolucionales están involucradas. También llamados CNN(del inglés , {\bf Convolutional Neural Networks}) o  {\bf ConvNets}, estas son las preferidas del campo de redes neuronales profundas. Han aprendido a clasificar las imágenes en categorías incluso mejor que los humanos en algunos casos, \citep{Rohrer}.
 			\vskip 0.5cm
-			\item<2-> Estas son muy similares a las redes neuronales ordinarias, están formadas por neuronas que tienen pesos y biases(sesgos) que se pueden aprender durante el entrenamiento de estas. Cada neurona recibe algunas entradas y realiza operaciones matemáticas.
+			\item<2-> Estas son muy similares a las redes neuronales ordinarias, están formadas por neuronas que tienen pesos y biases(sesgos) que se pueden aprender información durante el entrenamiento de estas. Cada neurona recibe algunas entradas y realiza operaciones matemáticas.
 		\end{itemize}
 }
 
@@ -183,9 +184,9 @@
 {\Large{Arquitectura del Modelo}}
 \end{block}
 		\begin{itemize}
-			\item<1->La arquitectura de la red está inspirada en el arquitectura Inception \citep{Inception} y en la arquitectura AlexNet\citep{Krizhevsky2012} para la clasificación de imágenes. En la arquitectura Inception, el modelo creado es denominado GoogLeNet, similar a AlexNet donde varios módulos iniciales son apilados uno sobre el otro para producir el resultado final. En el módulo de inicio, en ese tipo de red se usaron diversos tamaños de filtros convolucionales para capturar características de diferente abstracción. 
-			\vskip 0.5cm
-			\item<2-> El alto nivel de abstracción se captura con filtros de mayor tamaño y el de un nivel inferior con filtros de menor tamaño. Procesando información visual a diferentes escalas y al concatenarlas se obtiene un nivel eficiente de abstracción. 
+			\item<1->La arquitectura de la red está inspirada en la arquitectura AlexNet\citep{Krizhevsky2012} y en la arquitectura Inception \citep{Inception} para la clasificación de imágenes. 
+
+			\item<2->La {\bf arquitectura AlexNet} hizo que las redes convolucionales fueran populares cuando en el en el concurso ImageNet LSVRC-2012 superó significativamente a todas las otras redes neuronales a través de su diseño de red convolucional profunda para clasificar 1.2 millones de imágenes en 1000 clases diferentes. Ganó el desafío al obtener un error de 15.3\% y el segundo lugar (que no fue una variación de una CNN) obtuvo una tasa de error alrededor del 26,2\% \citep{Krizhevsky2012}.
 		\end{itemize}
 }
 
@@ -196,9 +197,41 @@
 {\Large{Arquitectura del Modelo}}
 \end{block}
 		\begin{itemize}
-		\vskip 0.5cm
-		\item<1-> En esta investigación se utilizó una versión modificada de las arquitecturas antes mencionadas. Se incorporó {\bf funciones de escala-múltiple} \citep{Multi_scale_feat}, lo que significa que la salida de las capas convolucionales no solo se envía a la capa posterior, sino que también se ramifica y se introduce al clasificador (capa totalmente conectada). La razón detrás de esto es que cuando el clasificador está tomando una decisión basada en convoluciones, podría encontrar que la salida de la primera o segunda capa convolucional también es útil. Básicamente con las características de escala múltiple depende del clasificador qué nivel de abstracción usar, ya que tiene acceso a las salidas de todas las capas convolucionales, es decir, características en todos los niveles de abstracción.
 
+			\item<1-> Constituida de capas convolucionales y capas totalmente conectadas, donde la salida de cada capa convolucional y cada capa completamente conectada se activa a través de la función no linear RELU.  Presenta filtros de tamaño 11x11, 5x5 , 3x3 y capas de agrupación(pooling), siendo lo más destacable el uso de dropout como técnica de regularización y el uso del proceso de Data Augmentation para conseguir esos excelentes resultados.
+
+			\item<2-> La {\bf {Arquitectura Inception}} es una arquitectura de red neuronal convolucional profunda, creada por un grupo de investigación de Google que fue responsable de establecer el nuevo estado del arte de la técnica para la clasificación y detección en la competencia de reconocimiento visual a gran escala ImageNet 2014(ILSVRC14).
+		\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Arquitectura del Modelo}}
+\end{block}
+		\begin{itemize}
+
+			\item<1-> El principal sello distintivo de esta arquitectura es la utilización mejorada de los recursos informáticos dentro de la red. Esto fue logrado gracias al aumento de la profundidad y el ancho de la red mientras se mantiene el costo computacional constante, reduciendo el número de parametros usados en AlexNet(60 millones) a 4 millones,\citep{Inception}.
+
+			\item<2-> Para optimizar la calidad, las decisiones para elaborar la arquitectura se basaron en el principio Hebbiano y la intuición de funciones procesamiento a escala múltiple, \citep{Inception}, lo que significa que la salida de las capas convolucionales no solo se envía a la capa posterior, sino que también se ramifica y se introduce al clasificador (capa totalmente conectada). 
+		\end{itemize}
+}
+%La teoría se resume a menudo como: "las células que se disparan juntas, permanecerán conectadas", a
+	
+
+
+
+\frame{
+\begin{block}
+{\Large{Arquitectura del Modelo}}
+\end{block}
+		\begin{itemize}
+		\vskip 0.5cm
+
+		\item<1-> La razón detrás de esto es que cuando el clasificador está tomando una decisión basada en convoluciones, podría encontrar que la salida de la primera o segunda capa convolucional también es útil. Básicamente con las características de escala múltiple depende del clasificador qué nivel de abstracción usar, ya que tiene acceso a las salidas de todas las capas convolucionales, es decir, características en todos los niveles de abstracción.
+
+
+		\item<2-> El modelo creado apartir de esta arquitectura llamado GoogLeNet, una red de 22 capas de profundidad, cuya calidad se evalúa en el contexto de reconocimiento y detección, logró tener una tasa de error del 6.67\%, muy cercano al rendimiento a nivel humano.
+	
 		% Estas capas ramificadas se someten a un pooling máximo adicional, de modo que todas las convoluciones se submuestrean proporcionalmente antes de entrar en el clasificador. Así se garantiza que todas las funciones de escala múltiple experimenten la misma cantidad de máximo aprovechamiento.
 
 		\end{itemize}
@@ -651,7 +684,7 @@
 		
  	\begin{itemize}
  		%\vskip 0.5cm
- 	\item<1->Una variedad de cálculos que reducen la dimensionalidad de un mapa de características se conocen como agrupación. La agrupación, que se aplica a cada canal por separado, permitiendo que la red sea robusta e invariante a pequeños cambios y distorsiones.
+ 	\item<1->Una variedad de cálculos que reducen la dimensionalidad de un mapa de características, permitiendo que la red sea robusta e invariante a pequeños cambios y distorsiones.
  	\vskip 0.2cm  
  	\item<2->La capa Pooling(también conocida como una capa de reducción de resolución) combina o agrupa, un conjunto de valores en su campo receptivo en un menor número de valores.
 	\vskip 0.2cm  
@@ -810,16 +843,16 @@
 		
  	\begin{itemize}
  		%\vskip 0.5cm
- 	\item<1-> En esta última capa del modelo generalmente se utiliza una función de activación diferente, porque en esta capa se pretende que tenga una salida determinada. La {\bf función softmax}, conocida tambien como función exponencial normalizada, es muy popular cuando se hace la clasificación.
+ 	\item<1-> En esta última capa del modelo generalmente se utiliza una función de activación diferente, porque en esta capa se pretende que tenga una salida determinada que represente la probabilidad de predicción del clasificador. La {\bf función softmax}, conocida tambien como función exponencial normalizada, es muy popular cuando se hace la clasificación.
  	\vskip 0.2cm  
- 	\item<2->  La salida de una red neuronal completamente conectada no es una distribución de probabilidad, sin embargo, el uso de esta función ayuda a obternela. Por lo que esta función permitirá estimar la probabilidad de que la imagen de entrada pertenezca a cada una de las clases al realizar una normalización con el objetivo que el valor de cada neurona esté limitado entre cero y uno y así permitir que el resultado de las neuronas de salida sumen a uno, \citep{Bishop}. 
+ 	\item<2->  Esta función permitirá estimar la probabilidad de que la imagen de entrada pertenezca a cada una de las clases al realizar una normalización con el objetivo que el valor de cada neurona esté limitado entre cero y uno y así permitir que el resultado de las neuronas de salida sumen a uno, \citep{Bishop}. 
 	\end{itemize}
 }
 
 
 %-------------------------------------------------------------------------------
 
-\subsection{Validación Cruzada}
+\subsection{Entrenamiento y Validación}
 \frame{
 \begin{block}
 {\Large{Validación Cruzada}}

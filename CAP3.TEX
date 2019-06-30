@@ -1,8 +1,6 @@
 %!TEX root = start.TEX
 \section{Propuesta o tema central de la tesis}
-
-
-			
+		
 
 
 \frame{
@@ -36,8 +34,7 @@
 				
 				\begin{center}
 				{\tiny{Distribución de ejemplos por señal para el entrenamiento(Total 39209)}}
-				
-			{\tiny {Fuente propia}}
+			{\tiny {Fuente: Elaboración propia}}
 				\end{center}
 			\end{figure}
 		
@@ -60,8 +57,7 @@
 				\end{center}
 				\begin{center}
 				{\tiny{Distribución de ejemplos por señal para el entrenamiento(Total 614)}}
-				
-			{\tiny{Fuente propia}}
+			{\tiny {Fuente: Elaboración propia}}
 				\end{center}
 			\end{figure}
 	\end{itemize}
@@ -83,8 +79,7 @@
 				
 				\begin{center}
 				{\tiny{Distribución de ejemplos por señal para la evaluación - Alemania}}
-				
-			{\tiny {Fuente propia}}
+				{\tiny {Fuente: Elaboración propia}}
 				\end{center}
 			\end{figure}
 		
@@ -107,8 +102,7 @@
 				\end{center}
 				\begin{center}
 				{\tiny{Distribución de ejemplos por señal para la evaluación - Perú}}
-				
-			{\tiny{Fuente propia}}
+				{\tiny {Fuente: Elaboración propia}}
 				\end{center}
 			\end{figure}
 	\end{itemize}
@@ -131,9 +125,10 @@
 				\begin{figure}[H]
 					\begin{center}
 					\includegraphics[width=0.7\textwidth,height=0.65\textheight,keepaspectratio]{images/desarrollo/Augment/flippedHorizontally}
-					\end{center}
-					%\begin{center}\tiny{Imágenes volteadas horizontalmente}\end{center}
 					
+					%\begin{center}\tiny{Imágenes volteadas horizontalmente}\end{center}
+					%{\tiny{Ejemplo de Flipping Horizontal}}
+				{\tiny {Fuente: Elaboración propia}}\end{center}
 				\end{figure}
 
 			%second column
@@ -142,9 +137,11 @@
 				\begin{figure}[H]
 					\begin{center}
 					\includegraphics[width=0.7\textwidth,height=0.65\textheight,keepaspectratio]{images/desarrollo/Augment/flippableVertically}
-					\end{center}
+					\vskip -0.5cm
 					%\begin{center}\tiny{Imágenes volteadas verticalmente}\end{center}
-
+				%{\tiny{Ejemplo de Flipping Vertical}}
+				{\tiny {Fuente: Elaboración propia}}
+				\end{center}
 				\end{figure}
 
 			\end{multicols}
@@ -204,8 +201,10 @@
 				\end{center}
 				
 				\vspace{-0.5em}
-				{\tiny{Distribución de categoría, luego de aplicar el Flip(en sus distintos tipos)- Señales de Alemania}}
-
+				\begin{center}
+				{\tiny{Distribución de categoría, luego de aplicar el Flip(en sus distintos tipos)- Señales de Alemania}}\\
+				{\tiny {Fuente: Elaboración propia}}
+				\end{center}
 			\end{figure}
 }
 
@@ -221,12 +220,11 @@
 	 	\item Projection(Proyección)
 			\begin{figure}[H]
 				\begin{center}
-				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/projection_transform}
+				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/projection_transform3}
 				\end{center}
-				
-				
-				{\tiny{Ejemplo de cinco proyecciones por cada imagen - Dataset Alemania}}
-
+				{\tiny{Ejemplo de cinco proyecciones por cada imagen - Dataset Perú}}\\
+				{\tiny {Fuente: Elaboración propia}}
+					
 			\end{figure}
 		\end{enumerate}
 }
@@ -247,11 +245,10 @@
 	 	\item Rotation(Rotación)
 			\begin{figure}[H]
 				\begin{center}
-				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/fixedrotation}
+				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/fixedrotation2}
 				\end{center}
-				
-				
-				{\tiny{Ejemplo de cinco rotaciones por cada imagen - Dataset Alemania}}
+				{\tiny{Ejemplo de cinco rotaciones por cada imagen - Dataset Perú}}\\
+				{\tiny {Fuente: Elaboración propia}}
 
 			\end{figure}
 		\end{enumerate}
@@ -270,11 +267,11 @@
 	 	\item Zoom
 			\begin{figure}[H]
 				\begin{center}
-				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/zoom_inv}
+				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/zoom_inv2}
 				\end{center}
 				
-				
-				{\tiny{Ejemplo de cinco aplicaciones de zoom(in/out) por cada imagen - Dataset Alemania}}
+				{\tiny{Ejemplo de cinco aplicaciones de zoom(in/out) por cada imagen - Dataset Perú}}\\
+				{\tiny {Fuente: Elaboración propia}}
 
 			\end{figure}
 		\end{enumerate}
@@ -291,9 +288,10 @@
 	 	\item Equalizacion del histograma
 			\begin{figure}[H]
 				\begin{center}
-				\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition}
+				\includegraphics[width=0.8\textwidth,height=0.65\textheight,keepaspectratio]{images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2}
 				\end{center}
-				{\tiny{Distribución eficaz de los valores de intensidad más frecuentes}}
+				{\tiny{Distribución eficaz de los valores de intensidad más frecuentes}}\\
+				{\tiny {Fuente: Elaboración propia}}
 			\end{figure}
 		\end{enumerate}
 }
@@ -312,7 +310,7 @@
 	\begin{figure}[H]
 				
 				\includegraphics[width=0.9\textwidth,height=0.9\textheight,keepaspectratio]{images/desarrollo/histograms/train_extended_balanced270900}
-
+				{\tiny {Fuente: Elaboración propia}}
 			\end{figure}
 		
 	\end{itemize}
@@ -327,13 +325,58 @@
 
 	\item<1->Señales de Tránsito de Perú (31314 imágenes)
 		\begin{figure}[H]
-				\begin{center}
+				
 				\includegraphics[width=0.9\textwidth,height=0.9\textheight,keepaspectratio]{images/desarrollo/histograms/train_extended_per_51_31314}
-				\end{center}
+				{\tiny {Fuente: Elaboración propia}}
+				
 			\end{figure}
 	\end{itemize}
 }
 
+
+\frame{
+\begin{block}
+{\Large{Dataset final }}
+\end{block}
+%\vskip 0.5cm
+	\begin{table}[H]
+	\begin{center}
+				\caption{\small{Distribución Entrenamiento y Validación Dataset Balanceado - Señales de Tránsito de Alemania}}
+				\begin{center}
+				\begin{tabular}{|>{\scriptsize}c|>{\scriptsize}c|}
+				\hline
+				{\ul \textbf{CONJUNTO DE DATOS}}           & {\ul \textbf{CANTIDAD IMÁGENES}}                \\ \hline
+				\textbf{Entrenamiento}                    & \text{203175}                       \\ \hline
+				\textbf{Validación}                       & \text{67725}                    \\ \hline
+				\textbf{Evaluación}                       & \text{12630}                    \\ \hline
+				\end{tabular}
+				\end{center}
+				\begin{center}
+				%\vskip 0.3cm
+				{\tiny{Fuente: Elaboración propia.}}
+				\end{center}
+				\end{center}
+			\end{table}
+
+	\begin{table}[H]
+	\begin{center}
+		\caption{\small{Distribución Entrenamiento y Validación Dataset no Balanceado - Señales de Tránsito de Perú}}
+		\begin{center}
+		\begin{tabular}{|>{\scriptsize}c|>{\scriptsize}c|}
+		\hline
+		{\ul \textbf{CONJUNTO DE DATOS}}           & {\ul \textbf{CANTIDAD IMÁGENES}}     \\ \hline
+		\textbf{Entrenamiento}                    & \text{23485 }                   \\ \hline
+		\textbf{Validación}                       & \text{3131 }                    \\ \hline
+		\textbf{Evaluación}                       & \text{4698 }                    \\ \hline
+		\end{tabular}
+		\end{center}
+		\begin{center}
+		%\vskip 0.3cm
+		{\tiny{Fuente: Elaboración propia.}}
+		\end{center}
+		\end{center}
+	\end{table}
+}
 
 
 \frame{
@@ -382,15 +425,16 @@
 %\vskip 0.5cm
 	\begin{itemize}
 
-	\item<1->Los hiperparámetros engloban funciones, variables y constantes utilizadas durante la construcción de las diferentes arquitecturas; estas varían, sin embargo siguiendo conceptos teóricos, antecedentes(investigaciones previas) y sobretodo despues de algunas pruebas realizadas, los siguientes hiperparámetros fueron seleccionados de manera específica:
+	\item<1->Los hiperparámetros engloban funciones, variables y constantes utilizadas durante la construcción de las diferentes arquitecturas; estas varían, sin embargo siguiendo conceptos teóricos, antecedentes (investigaciones previas) y sobretodo despues de algunas pruebas realizadas, los siguientes hiperparámetros fueron seleccionados de manera específica:
 
 	\begin{table}[H]
-			\begin{center}
+		\begin{center}
+			\caption{\small{Hiperparámetros del Modelo}}
 			\begin{tabular}{|>{\tiny}c|>{\tiny}c|>{\tiny}c|>{\tiny}c|}
 			\hline
 			{\ul \textbf{HIPERPARÁMETROS}}  & {\ul \textbf{TIPO}}       & {\ul \textbf{HIPERPARÁMETROS}}        & {\ul \textbf{TIPO}}        \\ \hline
 			{\textbf{Inicialización de Pesos}}                     		& {\textit{Xavier}}  				  &
-			\textbf{Tasa de Aprendizaje}                                & \textit{0.0005}                    \\ \hline
+			\textbf{Tasa de Aprendizaje}                                & \textit{0.0005 - 0.0001}                    \\ \hline
 			\textbf{Alg. de Optimización}                               & \textit{Optimizador Adam}          &
 			\textbf{Método de Validación}                               & \textit{Entropía Cruzada}          \\ \hline
 			\textbf{Fun. Activ. Capas Convolucionales}        			& \textit{RELU y DropOut}                      &
@@ -398,11 +442,12 @@
 			\textbf{Método de Regularización}                           &\textit{L2 Lasso(lambda = 0.0001)} &
 			\textbf{Épocas}                                             &\textit{100}		 				\\ \hline
 			\end{tabular}
-			\end{center}
+			
 			\begin{center}
 				\vskip 0.2cm
-				{\small{Fuente: Elaboración propia.}}
+				{\tiny{Fuente: Elaboración propia.}}
 				\end{center}
+			\end{center}
 		\end{table}
 
 	\end{itemize}
@@ -416,28 +461,29 @@
 	\begin{enumerate}%\addtocounter{enumi}{4}
 
 	\item MODELO A 
-\vskip 0.3cm
+	\vskip 0.3cm
 	\underline{Alemania}
-		\begin{table}[H]
-		\begin{center}
-		\setlength{\tabcolsep}{2pt}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-		\hline
-		{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+	\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño A (73995 neuronas) - Dataset de Imágenes de Alemania}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
 
-		 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
-		\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 32 de 8x8}\\ \hline
-		 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 32 de 16 x 16 neuronas & --\\ 
-		\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 1) 64 de 8x8}\\ \hline
-		3 &  {\cellcolor[HTML]{DAE8FC}6144 neuronas} &  F.C.(DropOut : 0.5) &  3072 neuronas &  -- & 43 neuronas & --\\ \hline
+			 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 32 de 8x8}\\ \hline
+			 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 1) 64 de 8x8}\\ \hline
+			3 &  {\cellcolor[HTML]{DAE8FC}6144 neuronas} &  F.C.(DropOut : 0.5) &  3072 neuronas &  -- & 43 neuronas & --\\ \hline
 
-		\end{tabular}
-		\end{center}
-		\end{table}
-		\begin{center}
-				\vskip 0.2cm
-				{\small{Fuente: Elaboración propia.}}
-				\end{center}
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+			\end{table}
 	\end{enumerate}
 }
 
@@ -454,291 +500,336 @@
 \vskip 0.3cm
 	\underline{Perú}
 		\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño A (250679 neuronas) - Dataset de Imágenes de Perú}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+			 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 32 de 15x15}\\ \hline
+			 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 1) 64 de 15x15}\\ \hline
+			3 &  {\cellcolor[HTML]{DAE8FC}21600 neuronas} &  F.C.(DropOut : 0.5) &  7200 neuronas &  -- & 7 neuronas & --\\ \hline
+
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+		\end{table}
+	\end{enumerate}
+}
+
+
+
+
+
+
+
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{1}
+
+	\item MODELO B
+\vskip 0.3cm
+	\underline{Alemania}
+		\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño B (83339 neuronas) - Dataset de Imágenes de Alemania}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+			 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 4x4}\\ \hline
+			 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 4x4}\\ \hline			
+			{\cellcolor[HTML]{ffb3b3}} & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 8 x 8 neuronas & --\\ 			
+			{\cellcolor[HTML]{ffb3b3} \multirow{-2}{*}{3}} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 4x4 }\\ \hline
+			4 &  {\cellcolor[HTML]{DAE8FC}3584 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+			\end{table}
+	\end{enumerate}
+}
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{1}
+
+	\item MODELO B
+\vskip 0.3cm
+	\underline{Perú}
+		\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño B (274339 neuronas) - Dataset de Imágenes de Perú}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+			 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 7x7}\\ \hline
+			 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 7x7}\\ \hline			
+			{\cellcolor[HTML]{ffb3b3}} & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 15 x 15 neuronas & --\\ 			
+			{\cellcolor[HTML]{ffb3b3} \multirow{-2}{*}{3}} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 7x7 }\\ \hline
+			4 &  {\cellcolor[HTML]{DAE8FC}10976 neuronas} &  F.C.(DropOut : 0.5) &  2700 neuronas &  -- & 7 neuronas & --\\ \hline
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+			\end{table}
+	\end{enumerate}
+}
+
+
+
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{2}
+
+	\item MODELO C
+	\vskip 0.3cm
+	\underline{Alemania}
+		\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño C (82315 neuronas) - Dataset de Imágenes de Alemania}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+			 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 4x4}\\ \hline
+			 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & {\cellcolor[HTML]{ffb3b3} 64 de 3 x 3} & Activo & 64 de 16 x 16 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 4x4}\\ \hline			
+			 & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 8 x 8 neuronas & --\\ 			
+			\multirow{-2}{*}{3} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 4x4 }\\ \hline
+			4 &  {\cellcolor[HTML]{DAE8FC}3584 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+			\end{table}
+	\end{enumerate}
+}
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{2}
+
+	\item MODELO C
+\vskip 0.3cm
+	\underline{Perú}
+		\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño C (273315 neuronas) - Dataset de Imágenes de Perú}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+			 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 7x7}\\ \hline
+			 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & {\cellcolor[HTML]{ffb3b3} 64 de 3 x 3} & Activo & 64 de 30 x 30 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 7x7}\\ \hline			
+			 & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 15 x 15 neuronas & --\\ 			
+			\multirow{-2}{*}{3} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 7x7 }\\ \hline
+			4 &  {\cellcolor[HTML]{DAE8FC}10976 neuronas} &  F.C.(DropOut : 0.5) &  2700 neuronas &  -- & 7 neuronas & --\\ \hline
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+			\end{table}
+	\end{enumerate}
+}
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{3}
+
+	\item MODELO D
+	\vskip 0.3cm
+	\underline{Alemania}
+		\begin{table}[H]
 		\begin{center}
+		\caption{\small{Diseño D (86411 neuronas) - Dataset de Imágenes de Alemania}}
 		\setlength{\tabcolsep}{2pt}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-		\hline
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+		{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+		 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
+		\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 4x4}\\ \hline
+		 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
+		\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 4x4}\\ \hline			
+		 & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & {\cellcolor[HTML]{ffb3b3} 128 de 7 x 7} & Activo & 128 de 8 x 8 neuronas & --\\ 			
+		\multirow{-2}{*}{3} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 4x4 }\\ \hline
+		4 &  {\cellcolor[HTML]{DAE8FC}3584 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
+		\end{tabular}
+		\end{center}
+		\begin{center}
+		\vskip 0.2cm
+		{\small{Fuente: Elaboración propia.}}
+		\end{center}
+		\end{table}
+	\end{enumerate}
+}
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{3}
+
+	\item MODELO D
+\vskip 0.3cm
+	\underline{Perú}
+			\begin{table}[H]
+			\begin{center}
+			\caption{\small{Diseño D (277411 neuronas) - Dataset de Imágenes de Perú}}
+			\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+			{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+			 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
+			\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 7x7}\\ \hline
+			 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
+			\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 7x7}\\ \hline			
+			 & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & {\cellcolor[HTML]{ffb3b3} 128 de 7 x 7} & Activo & 128 de 15 x 15 neuronas & --\\ 			
+			\multirow{-2}{*}{3} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 7x7 }\\ \hline
+			4 &  {\cellcolor[HTML]{DAE8FC}10976 neuronas} &  F.C.(DropOut : 0.5) &  2700 neuronas &  -- & 7 neuronas & --\\ \hline
+			\end{tabular}
+			\end{center}
+			\begin{center}
+			\vskip 0.2cm
+			{\small{Fuente: Elaboración propia.}}
+			\end{center}
+			\end{table}
+
+	\end{enumerate}
+}
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{4}
+
+	\item MODELO E
+	\vskip 0.3cm
+	\underline{Alemania}
+
+	\begin{table}[H]
+	\begin{center}
+	\caption{\small{Diseño E (90185 neuronas) - Dataset de Imágenes de Alemania}}
+	\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
+	{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
+
+	 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
+	\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 8) 32 de 2x2}\\ \hline
+	 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
+	\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 64 de 2x2}\\ \hline			
+	 & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 8 x 8 neuronas & --\\ 			
+	\multirow{-2}{*}{3} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 2) 128 de 2x2 }\\ \hline
+	{\cellcolor[HTML]{ffb3b3}}& 128 de 4 x 4 neuronas & Conv(DropOut : 0.6) & 128 de 7 x 7 & Activo & 128 de 4 x 4 neuronas & --\\ 			
+	{\cellcolor[HTML]{ffb3b3}\multirow{-2}{*}{4}} &  128 de 4 x 4 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 2 x 2 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 2x2 }\\ \hline
+	5 &  {\cellcolor[HTML]{DAE8FC}1408 neuronas} &  F.C.(DropOut : 0.5) &  702 neuronas &  -- & 43 neuronas & --\\ \hline
+	\end{tabular}
+	\end{center}
+	\begin{center}
+	\vskip 0.2cm
+	{\small{Fuente: Elaboración propia.}}
+	\end{center}
+	\end{table}
+
+	\end{enumerate}
+}
+
+
+
+\frame{
+\begin{block}
+{\Large{Modelos Propuestos }}
+\end{block}
+%\vskip 0.5cm
+	\begin{enumerate}\addtocounter{enumi}{4}
+
+	\item MODELO E
+\vskip 0.3cm
+	\underline{Perú}
+	\begin{table}[H]
+		\begin{center}
+		\caption{\small{Diseño E (279623 neuronas) - Dataset de Imágenes de Perú}}
+		\setlength{\tabcolsep}{2pt}
+			\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
+			\hline
 		{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
 
 		 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
-		\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 32 de 15x15}\\ \hline
+		\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 8) 32 de 3x3}\\ \hline
 		 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
-		\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 1) 64 de 15x15}\\ \hline
-		3 &  {\cellcolor[HTML]{DAE8FC}21600 neuronas} &  F.C.(DropOut : 0.5) &  3072 neuronas &  -- & 7 neuronas & --\\ \hline
-
+		\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 64 de 3x3}\\ \hline			
+		 & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 15 x 15 neuronas & --\\ 			
+		\multirow{-2}{*}{3} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 2) 128 de 3x3 }\\ \hline
+		{\cellcolor[HTML]{ffb3b3}}& 128 de 7 x 7 neuronas & Conv(DropOut : 0.6) & 128 de 7 x 7 & Activo & 128 de 7 x 7 neuronas & --\\ 			
+		{\cellcolor[HTML]{ffb3b3}\multirow{-2}{*}{4}} &  128 de 7 x 7 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 3 x 3 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 3x3 }\\ \hline
+		5 &  {\cellcolor[HTML]{DAE8FC}3168 neuronas} &  F.C.(DropOut : 0.5) &  1584 neuronas &  -- & 7 neuronas & --\\ \hline
 		\end{tabular}
 		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-
-
-
-
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{1}
-
-	\item MODELO B
-\vskip 0.3cm
-	\underline{Alemania}
-		\begin{table}[H]
 		\begin{center}
-		\setlength{\tabcolsep}{2pt}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 4x4}\\ \hline
-				 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 4x4}\\ \hline			
-				{\cellcolor[HTML]{ffb3b3}} & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 8 x 8 neuronas & --\\ 			
-				{\cellcolor[HTML]{ffb3b3} \multirow{-2}{*}{3}} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 4x4 }\\ \hline
-				4 &  {\cellcolor[HTML]{DAE8FC}3584 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
-		\end{tabular}
+		\vskip 0.2cm
+		{\small{Fuente: Elaboración propia.}}
 		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{1}
-
-	\item MODELO B
-\vskip 0.3cm
-	\underline{Perú}
-		\begin{table}[H]
-		\begin{center}
-		\setlength{\tabcolsep}{2pt}
-						\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 7x7}\\ \hline
-				 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 7x7}\\ \hline			
-				{\cellcolor[HTML]{ffb3b3}} & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 15 x 15 neuronas & --\\ 			
-				{\cellcolor[HTML]{ffb3b3} \multirow{-2}{*}{3}} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 7x7 }\\ \hline
-				4 &  {\cellcolor[HTML]{DAE8FC}10976 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 7 neuronas & --\\ \hline
-
-		\end{tabular}
-		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{2}
-
-	\item MODELO C
-	\vskip 0.3cm
-	\underline{Alemania}
-		\begin{table}[H]
-		\begin{center}
-		\setlength{\tabcolsep}{2pt}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 4x4}\\ \hline
-				 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & {\cellcolor[HTML]{ffb3b3} 64 de 3 x 3} & Activo & 64 de 16 x 16 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 4x4}\\ \hline			
-				 & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 64 de 8 x 8 neuronas & --\\ 			
-				\multirow{-2}{*}{3} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 4x4 }\\ \hline
-				4 &  {\cellcolor[HTML]{DAE8FC}10976 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
-		\end{tabular}
-		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{2}
-
-	\item MODELO C
-\vskip 0.3cm
-	\underline{Perú}
-		\begin{table}[H]
-		\setlength{\tabcolsep}{2pt}
-		\begin{center}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 7x7}\\ \hline
-				 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & {\cellcolor[HTML]{ffb3b3} 64 de 3 x 3} & Activo & 64 de 30 x 30 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 7x7}\\ \hline			
-				 & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 15 x 15 neuronas & --\\ 			
-				\multirow{-2}{*}{3} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 7x7 }\\ \hline
-				4 &  {\cellcolor[HTML]{DAE8FC}3584 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
-
-		\end{tabular}
-		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{3}
-
-	\item MODELO D
-	\vskip 0.3cm
-	\underline{Alemania}
-		\begin{table}[H]
-		\setlength{\tabcolsep}{2pt}
-		\begin{center}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 4x4}\\ \hline
-				 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 4x4}\\ \hline			
-				 & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & {\cellcolor[HTML]{ffb3b3} 128 de 7 x 7} & Activo & 64 de 8 x 8 neuronas & --\\ 			
-				\multirow{-2}{*}{3} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 4x4 }\\ \hline
-				4 &  {\cellcolor[HTML]{DAE8FC}3584 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 43 neuronas & --\\ \hline
-		\end{tabular}
-		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{3}
-
-	\item MODELO D
-\vskip 0.3cm
-	\underline{Perú}
-		\begin{table}[H]
-		\setlength{\tabcolsep}{2pt}
-		\begin{center}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 32 de 7x7}\\ \hline
-				 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 2) 64 de 7x7}\\ \hline			
-				 & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & {\cellcolor[HTML]{ffb3b3} 128 de 7 x 7} & Activo & 128 de 15 x 15 neuronas & --\\ 			
-				\multirow{-2}{*}{3} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 7x7 }\\ \hline
-				4 &  {\cellcolor[HTML]{DAE8FC}10976 neuronas} &  F.C.(DropOut : 0.5) &  1024 neuronas &  -- & 7 neuronas & --\\ \hline
-
-		\end{tabular}
-		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{4}
-
-	\item MODELO E
-	\vskip 0.3cm
-	\underline{Alemania}
-		\begin{table}[H]
-		\begin{center}
-		\setlength{\tabcolsep}{2pt}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 32 x 32 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 32 x 32 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 32 x 32 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 16 x 16 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 8) 32 de 2x2}\\ \hline
-				 & 32 de 16 x 16 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 16 x 16 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 16 x 16 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 8 x 8 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 64 de 2x2}\\ \hline			
-				 & 64 de 8 x 8 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 8 x 8 neuronas & --\\ 			
-				\multirow{-2}{*}{3} &  128 de 8 x 8 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 4 x 4 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 2) 128 de 2x2 }\\ \hline
-				{\cellcolor[HTML]{ffb3b3}}& 128 de 4 x 4 neuronas & Conv(DropOut : 0.6) & 128 de 7 x 7 & Activo & 128 de 4 x 4 neuronas & --\\ 			
-				{\cellcolor[HTML]{ffb3b3}\multirow{-2}{*}{4}} &  128 de 4 x 4 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 2 x 2 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 2x2 }\\ \hline
-				5 &  {\cellcolor[HTML]{DAE8FC}1408 neuronas} &  F.C.(DropOut : 0.5) &  702 neuronas &  -- & 43 neuronas & --\\ \hline
-				\end{tabular}
-		\end{center}
-		\end{table}
-	\end{enumerate}
-}
-
-
-
-\frame{
-\begin{block}
-{\Large{Modelos Propuestos }}
-\end{block}
-%\vskip 0.5cm
-	\begin{enumerate}\addtocounter{enumi}{4}
-
-	\item MODELO E
-\vskip 0.3cm
-	\underline{Perú}
-		\begin{table}[H]
-		\setlength{\tabcolsep}{2pt}
-		\begin{tabular}{|>{\tiny}c|>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c>{\tiny}c|>{\tiny}c|}
-				\hline
-				{\color[HTML]{000000} \textbf{Capa}} & {\color[HTML]{000000} \textbf{Entrada}} & {\color[HTML]{000000} \textbf{Tipo}} & {\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Número de\\ (kernels/filtros)\end{tabular}}} & {\color[HTML]{000000} \textbf{Padding}} & {\textbf{Salida}} & {\textbf{Func.Esc.Múltiple}}\\ \hline
-
-				 & 1 de 60 x 60 neuronas & Conv(DropOut : 0.8) & 32 de 3 x 3 & Activo & 32 de 60 x 60 neuronas & --\\ 
-				\multirow{-2}{*}{1} &  32 de 60 x 60 neuronas &  Max Pool &  32 de 2 x 2 &  Inactivo & 32 de 30 x 30 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 8) 32 de 3x3}\\ \hline
-				 & 32 de 30 x 30 neuronas & Conv(DropOut : 0.7) & 64 de 5 x 5 & Activo & 64 de 30 x 30 neuronas & --\\ 
-				\multirow{-2}{*}{2} &  64 de 30 x 30 neuronas &  Max Pool &  64 de 2 x 2 &  Inactivo & 64 de 15 x 15 neuronas & {\cellcolor[HTML]{DAE8FC}(Kernel = 4) 64 de 3x3}\\ \hline			
-				 & 64 de 15 x 15 neuronas & Conv(DropOut : 0.6) & 128 de 5 x 5 & Activo & 128 de 15 x 15 neuronas & --\\ 			
-				\multirow{-2}{*}{3} &  128 de 15 x 15 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 7 x 7 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 2) 128 de 3x3 }\\ \hline
-				{\cellcolor[HTML]{ffb3b3}}& 128 de 7 x 7 neuronas & Conv(DropOut : 0.6) & 128 de 7 x 7 & Activo & 128 de 7 x 7 neuronas & --\\ 			
-				{\cellcolor[HTML]{ffb3b3}\multirow{-2}{*}{4}} &  128 de 7 x 7 neuronas &  Max Pool &  128 de 2 x 2 &  Inactivo & 128 de 3 x 3 neuronas & {\cellcolor[HTML]{DAE8FC} (Kernel = 1) 128 de 3x3 }\\ \hline
-				5 &  {\cellcolor[HTML]{DAE8FC}3168 neuronas} &  F.C.(DropOut : 0.5) &  702 neuronas &  -- & 43 neuronas & --\\ \hline
-
-		\end{tabular}
-		
 		\end{table}
 	\end{enumerate}
 }
