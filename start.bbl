@@ -58,6 +58,11 @@ Karpathy, A. (2016).
 \newblock http://cs231n.github.io/convolutional-networks/.
 \newblock [Online; accesado Noviembre 23, 2018].
 
+\bibitem[Kingma and Ba, 2015]{Adam}
+Kingma, D.~P. and Ba, J. (2015).
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em CoRR}, abs/1412.6980.
+
 \bibitem[Krizhevsky et~al., 2012]{Krizhevsky2012}
 Krizhevsky, A., Sutskever, I., and Hinton, G. (2012).
 \newblock {\em ImageNet Classification with Deep Convolutional Neural
@@ -68,6 +73,11 @@ Krizhevsky, A., Sutskever, I., and Hinton, G. (2012).
 LeCun, Y., L.Botou, Y.Bengio, and P.Haffner (1998).
 \newblock Gradient-based learning applied to document recognition.
 \newblock {\em Proceedings of the IEEE 86}.
+
+\bibitem[Moore, 2001]{moore2001cross}
+Moore, A.~W. (2001).
+\newblock Cross-validation for detecting and preventing overfitting.
+\newblock {\em School of Computer Science Carneigie Mellon University}.
 
 \bibitem[Nair and Hinton, 2010]{RELU}
 Nair, V. and Hinton, G.~E. (2010).
@@ -88,9 +98,14 @@ Rohrer, B. (2016).
 \newblock How convolutional neural networks work.
 \newblock [Online; accesado Octubre 23, 2018].
 
-\bibitem[Romero, 2015]{AulaDNN}
-Romero, R.~F. (2015).
+\bibitem[Romero, 2015a]{AulaDNN}
+Romero, R.~F. (2015a).
 \newblock Scc0270/scc5809 - redes neurais - deep learning.
+\newblock {\em ICMC - USP}.
+
+\bibitem[Romero, 2015b]{AulaMLP}
+Romero, R.~F. (2015b).
+\newblock Scc0270/scc5809 - redes neurais - multilayer perceptron.
 \newblock {\em ICMC - USP}.
 
 \bibitem[Szegedy et~al., 2014]{Inception}

@@ -285,6 +285,8 @@
 		\end{itemize}
 }
 
+%El alto nivel de abstracción se captura con filtros de mayor tamaño y el de un nivel inferior con filtros de menor tamaño, procesando información visual a diferentes escalas y al concatenarlas se obtiene un nivel eficiente de abstracción.
+
 \frame{
 \begin{block}
 {\Large{Capa Convolucional}}
@@ -855,107 +857,68 @@
 \subsection{Entrenamiento y Validación}
 \frame{
 \begin{block}
-{\Large{Validación Cruzada}}
+{\Large{Entrenamiento de Red}}
 \end{block}
 		
  	\begin{itemize}
  		%\vskip 0.5cm
- 	\item<1-> La cantidad de errores en la votación, nos indica qué tan buenas son nuestras pesos y bias. Las características y los pesos se pueden ajustar para reducir el error. Cada valor se ajusta un poco más alto y un poco más bajo, y el nuevo error se calcula cada vez. 
+ 	\item<1-> La red procesa los registros en los datos de entrenamiento usando los pesos, biases y las funciones en las capas ocultas, luego compara las salidas resultantes con las salidas deseadas. Los errores se propagan a través del sistema, lo que hace que el sistema ajuste los pesos y biases que serán procesados en la siguiente iteración de entrenamiento. Este proceso ocurre una y otra vez sobre un conjunto de datos, a medida que los pesos se ajustan (refinan) continuamente. 
  	\vskip 0.2cm  
- 	\item<2->  Después de hacer esto para cada píxel de función en cada capa convolucional y cada peso en cada capa totalmente conectada, los nuevos pesos dan una respuesta que funciona ligeramente mejor para esa imagen, \citep{Bishop}. 
+ 	\item<2->  Esto se repite con cada imagen subsiguiente en el conjunto de imágenes etiquetadas. Los problemas que ocurren en una sola imagen se olvidan rápidamente, pero los patrones que aparecen en muchas imágenes se integran en las características(pesos y biases de conexión).
  	 	\vskip 0.2cm  
- 	\item<3->   Esto se repite con cada imagen subsiguiente en el conjunto de imágenes etiquetadas. Los problemas que ocurren en una sola imagen se olvidan rápidamente, pero los patrones que aparecen en muchas imágenes se integran en las características y los pesos de conexión.
-	\end{itemize}
-}
-
-\frame{
-\begin{block}
-{\Large{Validación Cruzada}}
-\end{block}
-		
- 	\begin{itemize}
- 		%\vskip 0.5cm
- 	\item<1-> Para el entrenamiento, el conjunto de datos se divide en un subconjunto de entrenamiento y otro para validación. En esta investigación se dividirá el 75\% para entrenamiento y 75\% para validación.
- 	\vskip 0.2cm  
- 	\item<2->   La división en subgrupos de entrenamiento y validación generalmente se realiza de manera aleatoria, para garantizar que ambos subconjuntos sean muestras aleatorias de la misma distribución.
- 
-	\end{itemize}
-}
-
-
-
-
-\frame{
-\begin{block}
-{\Large{Validación Cruzada}}
-\end{block}
-		
- 	\begin{itemize}
- 		%\vskip 0.5cm
- 	\item<1-> Para una red neuronal, normalmente verá la ecuación escrita en una forma donde $y$ es el vector de verdad y la variable $\hat{y}$ (o algún otro valor tomado directamente de la última salida de la capa) es la estimación, y se vería así para un solo ejemplo:
+ 	\item<3-> Para realizar este proceso, existe un método de optimización muy popular denominado {\bf Descenso de gradiente}.
  	
-			\begin{center}
-			$L = - \mathbf{y} \cdot log({\hat{y}})$
-			\end{center}
-			%\begin{center}
-			%{\small{El valor es independiente de cómo la probabilidad restante se divide entre clases incorrectas}}
-			%\end{center}
-	
- 	\vskip 0.2cm  
- 	\item<2->   A menudo esta ecuación es promediada sobre todos los ejemplos como una función de costo. No siempre se cumple estrictamente en las descripciones, pero generalmente una función de pérdida es de nivel inferior y describe cómo una sola instancia o componente determina un valor de error, mientras que una función de costo es de nivel superior y describe cómo se evalúa un sistema completo para la optimización. 
- 	\vskip 0.2cm  
- 	\item<3-> Una función de costo basada en pérdida de clasificación multiclase para un conjunto de datos de tamaño N podría verse así:
-			\begin{center}
-			$J = - \frac{1}{N}(\sum_{i=1}^{N} \mathbf{y_i} \cdot log({\hat{y}_i}))$
-			\end{center}
-		
 	\end{itemize}
 }
 
-%----------------------------------------------------------------------------------
-
 \frame{
 \begin{block}
-{\Large{Descenso de Gradiente}}
+{\Large{Entrenamiento de Red - Descenso de Gradiente}}
 \end{block}
 		
  	\begin{itemize}
  		%\vskip 0.5cm
  	\item<1-> Un gradiente mide cuánto cambia la salida de una función si se cambia un poco las entradas.
-
-	\item<2->En el caso del entrenamiento de una red neuronal, el gradiente simplemente mide el cambio en todos los pesos con respecto al cambio en el error.
+ 	\vskip 0.2cm  
+ 	\item<2-> En el caso del entrenamiento de una red neuronal, el gradiente simplemente mide el cambio en todos los pesos con respecto al cambio en el error. El gradiente se puede representar como la pendiente de una función, cuanto más alto es el gradiente, más pronunciada es la pendiente y más rápido puede aprender un modelo, \citep{gradient}.
+ 	%Pero si la pendiente es cero, el modelo deja de aprender. Dicho matemáticamente, un gradiente es una derivada parcial con respecto a sus entradas,
+ 	\vskip 0.2cm  
+ 	\item<3-> La idea detrás del descenso de gradiente es disminuir de forma gradual, pero constante, el error de salida ajustando los pesos y biases.  
+ 	%Matemáticamente, representa el cambio en el error dado un cambio de unidad en el peso:
  	
-	\item<3->El descenso de gradiente es un algoritmo de optimización iterativa utilizado al entrenar un modelo de aprendizaje automático, basado en una función convexa, que ajusta sus parámetros iterativamente para minimizar la función de pérdida(error) hasta su mínimo local.\citep{gradient}
-
-	\item<4->La idea detrás del descenso de gradiente es disminuir de forma gradual, pero constante, el error de salida ajustando los pesos. Intuitivamente, se conoce que si un cambio en un peso aumentará (disminuirá) el error, entonces queremos disminuir (aumentar) ese peso. Matemáticamente, representa el cambio en el error dado un cambio de unidad en el peso:
-
 		\begin{center}
 		$ \frac{{\partial E}}{\partial w_{ij}}$
 		\end{center}
 		\begin{center}
-		{\tiny{La derivada del error con respecto al peso}}
+		{\small{Ecuación de la derivada del error con respecto al peso}}
 		\end{center}
-	
 	\end{itemize}
 }
+
+
+
 \frame{
 \begin{block}
-{\Large{Descenso de Gradiente}}
+{\Large{Entrenamiento de Red - Descenso de Gradiente}}
 \end{block}
 		
  	\begin{itemize}
- 		%\vskip 0.5cm
- 	\item<1-> Una vez que encontremos esta derivada, actualizamos el peso a través de lo siguiente:
- 		\begin{center}
+ 	\item<1-> Una vez que encontremos esta derivada, actualizamos el peso a través de la siguiente fórmula:
+		
+		\begin{center}
 		$  \triangle w_{ij} = -\eta\frac{{\partial E}}{\partial w_{ij}} $
 		\end{center}
 		\begin{center}
-		{\tiny{Representación de la distancia por la dirección del cambio. $\eta$  es tasa de aprendizaje}}
+		{\small{Representación del ajuste del peso, donde $\eta$ es la tasa de aprendizaje}}
 		\end{center}
-		\vskip 0.2cm
-	\item<2-> La tasa de Aprendizaje suele disminuir gradualmente durante las épocas de la fase de entrenamiento. Si actualizamos todos los pesos usando esta misma fórmula, esto equivale a moverse en la dirección de descenso más pronunciado a lo largo de la superficie de error, de ahí el nombre, descenso de gradiente.
+		
+ 	\item<2-> La {\bf tasa de aprendizaje}(Learning Rate) puede entenderse como el tamaño del paso en la optimización para minimizar la función de pérdida de la red, es decir, es un parámetro que determina cuánto influye un paso de actualización en el valor actual de los pesos, \citep {AdamImg}.
+
+ 	\item<3-> Por lo que este parámetro suele disminuir gradualmente durante las épocas de la fase de entrenamiento. Si actualizamos todos los pesos usando esta misma fórmula, esto equivale a moverse en la dirección de descenso más pronunciado a lo largo de la superficie de error, de ahí el nombre, descenso de gradiente.
+
 	\end{itemize}
 }
+
 %----------------------------------------------------------------------------------
 
 \frame{
@@ -963,22 +926,133 @@
 {\Large{Tasa de Aprendizaje (Learning Rate)}}
 \end{block}
 		
- 	\begin{itemize}
- 		%\vskip 0.5cm
- 	\item<1-> Este parámetro puede entenderse como el tamaño del paso en la optimización para minimizar la función de pérdida de la red, es decir, es un parámetro que determina cuánto influye un paso de actualización en el valor actual de los pesos, por ejemplo, el tamaño del paso en el que el gradiente cae en la dirección máxima de la pendiente, \citep {AdamImg}.
+		%Cuando la tasa de aprendizaje es demasiado pequeña, es necesario realizar muchas iteraciones de aprendizaje; pero cuando la tasa de aprendizaje es demasiado grande, el resultado se moverá hacia adelante y hacia atrás en ambos sentidos de los valores extremos(oscila), y no se podrá lograr la solución óptima como puede ser observado en la figura 2.28.
+		Al entrenar redes neuronales profundas, a menudo es útil reducir la tasa de aprendizaje a medida que avanza el entrenamiento y no mantenerlo constante y así evitar la divergencia (punto a partir del cual la pérdida ya no se reduce y en lugar de eso comienza a incrementarse), \cite{AdamImg}.
+ 
 
 		\begin{figure}[H]
 		%\begin{center}
 		\includegraphics[width=1\textwidth]{images/desarrollo/entrenamiento/LR}
 		%\end{center}
 		\begin{center}
+		\vspace{-0.5cm}
 		\caption{\small{Establecimiento de la Tasa de Aprendizaje}}
-		\vspace{-0.5em}
+		\vspace{-0.3cm}
 		{\small{\citep {AdamImg}}}
 		\end{center}
 		\end{figure}
 
- 	%,height=0.5\textheight,keepaspectratio
+}
+
+\frame{
+\begin{block}
+{\Large{Tasa de Aprendizaje (Learning Rate)}}
+\end{block}
+		
+\begin{itemize}
+ 	\item<1->Reduciendo lentamente la tasa de aprendizaje a lo largo del tiempo ayuda a acelerar el aprendizaje. Esto es lo que se conoce como tasa de decaimiento de aprendizaje {\bf(learning rate decay)}.
+ 
+	\item<2->Sin embargo, el optimizador Gradient Descent (en cualquiera de sus tipos) con una tasa de decaimiento de aprendizaje, no es usado a menudo para entrenar redes neuronales profundas ya que la misma tasa de aprendizaje se aplica a todas las actualizaciones de los parámetros.
+	\item<3->Opta en usar optimizadores más avanzados que tienen una tasa de convergencia más rápida, adaptable a diversas situaciones y son conocidos como optimizadores de descenso de gradiente de segundo orden; tales como optimizador Adagrad, Adadelta, RMSprop, Adam, entre otros. 
+% genera un desafío el determinar los hiperparámetros que deben definirse de antemano y dependen en gran medida del tipo de modelo y problema.
+ 
+\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Optimizador ADAM}}
+\end{block}
+		
+\begin{itemize}
+ 	\item<1->Es un algoritmo de optimización de tasa de aprendizaje adaptativo que ha sido diseñado específicamente para el entrenamiento de redes neuronales profundas; el nombre Adam deriva de Estimación del Momento Adaptativo \citep {Adam}.
+ 
+	\item<2->Permite que la tasa de aprendizaje se adapte según los parámetros y realiza actualizaciones más grandes para parámetros infrecuentes y actualizaciones más pequeñas para los frecuentes.
+	%  Debido a esto, es adecuado para datos dispersos, como lo es en el procesamiento de lenguaje natural o en el reconocimiento de imágenes.
+	\item<3->Otra ventaja es que básicamente simplifica la necesidad de ajustar la tasa de aprendizaje debido a que cada parámetro tiene su propia tasa de aprendizaje. 
+ 
+\end{itemize}
+}
+
+
+%----------------------------------------------------------------------------------
+
+
+\frame{
+\begin{block}
+{\Large{Validación Cruzada}}
+\end{block}
+		
+\begin{itemize}
+ 	\item<1->Para el entrenamiento, el conjunto de datos se divide en un subconjunto de entrenamiento y otro para validación. %La división en subgrupos de entrenamiento y validación generalmente se realiza de manera aleatoria, para garantizar que ambos subconjuntos sean muestras aleatorias de la misma distribución.
+ 
+	\item<2->El modelo es entrenado sobre el conjunto de entrenamiento completo y la capacidad de generalización es medida en el conjunto de validación.
+
+	\item<3->La validación cruzada es una técnica utilizada para evaluar los resultados de un análisis estadístico y garantizar que son independientes de la partición entre datos de entrenamiento y validación, \citep{moore2001cross}.
+ 	
+ 	\item<4->El resultado de la validación cruzada representa la pérdida de la entropía del conjunto de datos. La entropía se suele utilizar en la teoría de la información para medir la pureza o impureza de un conjunto determinado. %La pregunta a la que responde es: ¿Cuánto diferente esos elementos son entre sí? 
+ 	\begin{center}
+			$H(p,q) = -\sum_{\forall x} p(x) log(q(x))$
+			\end{center}
+			\begin{center}
+			{\small{Fórmula de entropía cruzada con dos distribuciones sobre la variable discreta $x$, donde $q(x)$ es la estimación para la clasificación verdadera $p(x)$}}
+			\end{center}
+\end{itemize}
+}
+
+\frame{
+\begin{block}
+{\Large{Validación Cruzada}}
+\end{block}
+		
+\begin{itemize}
+ 	
+ 
+	\item<1->Para una red neuronal, normalmente verá la ecuación escrita en una forma donde $y$ es el vector de datos reales y la variable $x$ (o algún otro valor tomado directamente de la última salida de la capa) es la estimación, se vería así para un solo ejemplo:
+ 
+	\begin{center}
+			$L = - \mathbf{y} \cdot log(\mathbf{x})$
+	\end{center}
+	
+
+		\vskip 0.2cm  
+	\item<2->A menudo esta ecuación es promediada sobre todos los ejemplos como una función de costo. 
+ 		\begin{center}
+			$J = - \frac{1}{N}(\sum_{i=1}^{N} \mathbf{y_i} \cdot log(\mathbf{{x}_i}))$
+			\end{center}
+			\begin{center}
+			{\small{Función de costo basada en pérdida de clasificación de múltiples clases para un conjunto de datos de tamaño N}}
+		\end{center}
+\end{itemize}
+}
+
+%Es por ello que la función de costo dada por la validación cruzada ayuda para decidir cuándo se debe terminar el entrenamiento de una red, \citep{AulaMLP}. Usualmente se utiliza el error cuadrático medio como función de pérdida para medir el rendimiento de un modelo de regresión. Sin embargo, en casos de clasificación, el cálculo de la entropía cruzada es preferible, ya que produce un aprendizaje más rápido al no causar saturación de las neuronas de salida (proceso cuando la entrada es próxima a cero, generando que el peso correspondiente se ajusta lentamente),  \citep{AulaDNN}. La pérdida de entropía cruzada aumentará a medida que la probabilidad prevista diverge de la clasificación real. Por lo tanto, un modelo casi perfecto tendría una pérdida de entropía cercana a cero, \citep{crossMSE}.
+
+
+%----------------------------------------------------------------------------------
+
+
+\frame{
+\begin{block}
+{\Large{Método de Regularización L2}}
+\end{block}
+		
+\begin{itemize}
+ 	\item<1->La regularización es una técnica que realiza ligeras modificaciones en el algoritmo de aprendizaje, de manera que el modelo se generaliza mejor.
+ 	%En la regularización, lo que se hace normalmente es mantener el mismo número de funciones, pero se reduce la magnitud de los coeficientes(pesos de neuronas), 
+ 
+	\item<2->El método de Regularización L2 o también conocido como Regresión Lasso, trata de agregar un término adicional(lambda) a la función de coste, la cual penaliza parametrizaciones con pesos más elevados, es decir, reduce el coeficiente(peso) de las funciones menos importantes a cero eliminando así algunas características, \citep{AulaMLP}.
+	%Por lo tanto, mantiene los pesos pequeños, evitando que la red utilice pesos que no necesite realmente, logrando que la red no se ajuste demasiado al conjunto de entrenamiento \citep{AulaMLP}.
+
+	\item<3->Si $L(\theta, D)$ es la función de coste, $\theta$ es el conjunto de parámetros libres y $D$ es un ejemplo de entrenamiento, entonces a la función de pérdida regularizada será:
+
+			\begin{center}
+			$E(\theta,D) =L(\theta,D) +\lambda R(\theta)$
+			\end{center}
 			
-	\end{itemize}
+
+ 	%Donde $R(\theta)$ caracteriza la complejidad del modelo y $\lambda$ representa la proporción de la coste total del modelo, generalmente $\lambda$ es una constante y estará cerca de 0 porque si $\lambda$ es demasiado grande, conducirá a un ajuste insuficiente (underfitting). Por otro lado, para evitar el exceso de ajuste (overfitting) cuando se tiene una gran cantidad de características en su conjunto de datos, no optimizamos directamente $L(\theta,D)$ (la entropía cruzada), sino que optimizamos $L(\theta,D) +\lambda R(\theta)$.
+ 	\item<4->En esta investigación se usó una constante {\bf lambda($\lambda$) = 0.0001}. La regularización L2 incluye los pesos de las capas totalmente conectadas, y normalmente no incluye a los biases (sesgos).
+ 	% La intuición detrás de esto es que el bias contribuye al overfitting (sobreajuste) y no estaría agregando ningún nuevo grado de libertad al modelo, \citep{AulaMLP}.
+\end{itemize}
 }
