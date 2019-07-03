@@ -855,6 +855,7 @@
 %-------------------------------------------------------------------------------
 
 \subsection{Entrenamiento y Validación}
+
 \frame{
 \begin{block}
 {\Large{Entrenamiento de Red}}
@@ -870,6 +871,8 @@
  	
 	\end{itemize}
 }
+
+
 
 \frame{
 \begin{block}
@@ -1052,7 +1055,7 @@
 			
 
  	%Donde $R(\theta)$ caracteriza la complejidad del modelo y $\lambda$ representa la proporción de la coste total del modelo, generalmente $\lambda$ es una constante y estará cerca de 0 porque si $\lambda$ es demasiado grande, conducirá a un ajuste insuficiente (underfitting). Por otro lado, para evitar el exceso de ajuste (overfitting) cuando se tiene una gran cantidad de características en su conjunto de datos, no optimizamos directamente $L(\theta,D)$ (la entropía cruzada), sino que optimizamos $L(\theta,D) +\lambda R(\theta)$.
- 	\item<4->En esta investigación se usó una constante {\bf lambda($\lambda$) = 0.0001}. La regularización L2 incluye los pesos de las capas totalmente conectadas, y normalmente no incluye a los biases (sesgos).
+ 	\item<4->En esta investigación se usó una constante {\bf lambda($\lambda$) = 0.0001}. La regularización L2 incluye los pesos de las capas totalmente conectadas y convolucionales, pero no incluye a los biases (sesgos).
  	% La intuición detrás de esto es que el bias contribuye al overfitting (sobreajuste) y no estaría agregando ningún nuevo grado de libertad al modelo, \citep{AulaMLP}.
 \end{itemize}
 }

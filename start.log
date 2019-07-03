@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  30 JUN 2019 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.1)  3 JUL 2019 11:01
 entering extended mode
 **"D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
 ("D:/TG/TESIS CNN/Diapositivas_Tesis-2018/start.tex"
@@ -979,21 +979,21 @@ LaTeX Info: Redefining \% on input line 24.
 )
 \openout1 = `start.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 89.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -1064,7 +1064,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box87
-Package hyperref Info: Link coloring OFF on input line 88.
+Package hyperref Info: Link coloring OFF on input line 89.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
 .sty"
@@ -1076,55 +1076,55 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count181
 )
-LaTeX Info: Redefining \ref on input line 88.
-LaTeX Info: Redefining \pageref on input line 88.
-LaTeX Info: Redefining \nameref on input line 88.
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
  (start.out) (start.out)
 \@outlinefile=\write5
 \openout5 = `start.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 88.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 89.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 88.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 89.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 88.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 88.
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 89.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 88.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 88.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 88.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 89.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 88.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 88.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 88.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 89.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 88.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 88.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 88.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 89.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 88.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 88.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 89.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 88.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 89.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 88.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 88.
+(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 88.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 88.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 88.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 88.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 89.
 
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\trans
 lator-basic-dictionary-English.dict"
@@ -1150,11 +1150,11 @@ Dictionary: translator-numbers-dictionary, Language: English
 lator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 88.
+LaTeX Info: Redefining \selectfont on input line 89.
  (start.nav) (CAP1.TEX
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
@@ -2156,35 +2156,35 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 852.
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 872.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 873.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [108
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 872.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 873.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [109
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 872.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 873.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [110
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 896.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 899.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [111
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 896.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 899.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
 
 [112
@@ -2192,28 +2192,28 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 896.
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 896.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 899.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [113
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 920.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 923.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [114
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 920.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 923.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [115
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 920.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 923.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [116
 
@@ -2222,50 +2222,50 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 920.
 File: images/desarrollo/entrenamiento/LR.png Graphic file (type png)
 <use images/desarrollo/entrenamiento/LR.png>
 Package pdftex.def Info: images/desarrollo/entrenamiento/LR.png  used on input 
-line 945.
+line 948.
 (pdftex.def)             Requested size: 344.20024pt x 142.58568pt.
 
-Overfull \vbox (4.11998pt too high) detected at line 945
+Overfull \vbox (4.11998pt too high) detected at line 948
  []
 
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 945.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 948.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
 [117
 
  <./images/desarrollo/entrenamiento/LR.png>]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 960.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 963.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [118
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 960.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 963.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [119
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 960.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 963.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [120
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 975.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 978.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [121
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 975.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 978.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
 
 [122
@@ -2273,81 +2273,81 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 975.
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 975.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 978.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [123
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1001.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1004.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [124
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1001.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1004.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [125
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1001.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1004.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [126
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1001.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1004.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [127
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1027.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1030.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1027.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1030.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1027.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1030.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [128
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1027.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1030.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [129
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1058.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1061.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [130
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1058.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1061.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [131
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1058.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1061.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [132
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1058.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1061.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [133
 
@@ -2375,485 +2375,501 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 20.
  [135
 
  <./images/intro/disenho.png>]
-<images/desarrollo/histograms/initial39209.png, id=3911, 1282.7925pt x 531.4856
+<images/summaryflowchart.png, id=3911, 444.91219pt x 555.57562pt>
+File: images/summaryflowchart.png Graphic file (type png)
+<use images/summaryflowchart.png>
+Package pdftex.def Info: images/summaryflowchart.png  used on input line 40.
+(pdftex.def)             Requested size: 177.4254pt x 221.5566pt.
+
+Overfull \vbox (63.47978pt too high) detected at line 40
+ []
+
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 40.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+[136
+
+ <./images/summaryflowchart.png>]
+<images/desarrollo/histograms/initial39209.png, id=3939, 1282.7925pt x 531.4856
 3pt>
 File: images/desarrollo/histograms/initial39209.png Graphic file (type png)
 <use images/desarrollo/histograms/initial39209.png>
 Package pdftex.def Info: images/desarrollo/histograms/initial39209.png  used on
- input line 42.
+ input line 62.
 (pdftex.def)             Requested size: 309.77515pt x 128.3458pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 42.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 62.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [136
+ [137
 
  <./images/desarrollo/histograms/initial39209.png>]
-<images/desarrollo/histograms/inicioTrain614.png, id=3939, 838.63312pt x 449.42
+<images/desarrollo/histograms/inicioTrain614.png, id=3967, 838.63312pt x 449.42
 906pt>
 File: images/desarrollo/histograms/inicioTrain614.png Graphic file (type png)
 <use images/desarrollo/histograms/inicioTrain614.png>
 Package pdftex.def Info: images/desarrollo/histograms/inicioTrain614.png  used 
-on input line 64.
+on input line 84.
 (pdftex.def)             Requested size: 309.77753pt x 166.01183pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 64.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 84.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [137
+ [138
 
  <./images/desarrollo/histograms/inicioTrain614.png>]
-<images/desarrollo/histograms/initialTest12630.png, id=3967, 1290.32062pt x 637
+<images/desarrollo/histograms/initialTest12630.png, id=3995, 1290.32062pt x 637
 .63219pt>
 File: images/desarrollo/histograms/initialTest12630.png Graphic file (type png)
 
 <use images/desarrollo/histograms/initialTest12630.png>
 Package pdftex.def Info: images/desarrollo/histograms/initialTest12630.png  use
-d on input line 87.
+d on input line 107.
 (pdftex.def)             Requested size: 309.76202pt x 153.07376pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 87.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 107.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [138
+
+[139
 
  <./images/desarrollo/histograms/initialTest12630.png>]
-<images/desarrollo/histograms/PeruinitialTest4698.png, id=3995, 1186.4325pt x 6
+<images/desarrollo/histograms/PeruinitialTest4698.png, id=4024, 1186.4325pt x 6
 48.17157pt>
 File: images/desarrollo/histograms/PeruinitialTest4698.png Graphic file (type p
 ng)
 <use images/desarrollo/histograms/PeruinitialTest4698.png>
 Package pdftex.def Info: images/desarrollo/histograms/PeruinitialTest4698.png  
-used on input line 109.
+used on input line 129.
 (pdftex.def)             Requested size: 309.76863pt x 169.23273pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 109.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 129.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
-
-[139
+ [140
 
  <./images/desarrollo/histograms/PeruinitialTest4698.png>]
-<images/desarrollo/Augment/flippedHorizontally.png, id=4024, 211.54031pt x 663.
+<images/desarrollo/Augment/flippedHorizontally.png, id=4052, 211.54031pt x 663.
 98062pt>
 File: images/desarrollo/Augment/flippedHorizontally.png Graphic file (type png)
 
 <use images/desarrollo/Augment/flippedHorizontally.png>
 Package pdftex.def Info: images/desarrollo/Augment/flippedHorizontally.png  use
-d on input line 149.
+d on input line 169.
 (pdftex.def)             Requested size: 53.97595pt x 169.41919pt.
-<images/desarrollo/Augment/flippableVertically.png, id=4025, 361.35pt x 685.119
+<images/desarrollo/Augment/flippableVertically.png, id=4053, 361.35pt x 685.119
 6pt>
 File: images/desarrollo/Augment/flippableVertically.png Graphic file (type png)
 
 <use images/desarrollo/Augment/flippableVertically.png>
 Package pdftex.def Info: images/desarrollo/Augment/flippableVertically.png  use
-d on input line 149.
+d on input line 169.
 (pdftex.def)             Requested size: 89.35582pt x 169.41866pt.
 
-Overfull \vbox (7.32123pt too high) detected at line 149
+Overfull \vbox (7.32123pt too high) detected at line 169
  []
 
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 149.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 169.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
-[140
+[141
 
  <./images/desarrollo/Augment/flippedHorizontally.png> <./images/desarrollo/Aug
 ment/flippableVertically.png>]
-<images/desarrollo/Augment/flippable_both.png, id=4054, 319.4334pt x 141.6492pt
+<images/desarrollo/Augment/flippable_both.png, id=4082, 319.4334pt x 141.6492pt
 >
 File: images/desarrollo/Augment/flippable_both.png Graphic file (type png)
 <use images/desarrollo/Augment/flippable_both.png>
 Package pdftex.def Info: images/desarrollo/Augment/flippable_both.png  used on 
-input line 168.
+input line 188.
 (pdftex.def)             Requested size: 240.94408pt x 106.84396pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 168.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 188.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [141
+ [142
 
  <./images/desarrollo/Augment/flippable_both.png>]
-<images/desarrollo/Augment/cross_flippable.png, id=4082, 312.9291pt x 548.5293p
+<images/desarrollo/Augment/cross_flippable.png, id=4110, 312.9291pt x 548.5293p
 t>
 File: images/desarrollo/Augment/cross_flippable.png Graphic file (type png)
 <use images/desarrollo/Augment/cross_flippable.png>
 Package pdftex.def Info: images/desarrollo/Augment/cross_flippable.png  used on
- input line 187.
+ input line 207.
 (pdftex.def)             Requested size: 96.65366pt x 169.42294pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 187.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 207.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [142
+ [143
 
  <./images/desarrollo/Augment/cross_flippable.png>]
-<images/desarrollo/histograms/train_flipped63538.png, id=4110, 1167.61218pt x 6
+<images/desarrollo/histograms/train_flipped63538.png, id=4138, 1167.61218pt x 6
 10.53094pt>
 File: images/desarrollo/histograms/train_flipped63538.png Graphic file (type pn
 g)
 <use images/desarrollo/histograms/train_flipped63538.png>
 Package pdftex.def Info: images/desarrollo/histograms/train_flipped63538.png  u
-sed on input line 209.
+sed on input line 229.
 (pdftex.def)             Requested size: 275.35098pt x 143.97784pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 209.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 229.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [143
+ [144
 
  <./images/desarrollo/histograms/train_flipped63538.png>]
-<images/desarrollo/Augment/projection_transform3.png, id=4138, 828.696pt x 371.
+<images/desarrollo/Augment/projection_transform3.png, id=4166, 828.696pt x 371.
 58826pt>
 File: images/desarrollo/Augment/projection_transform3.png Graphic file (type pn
 g)
 <use images/desarrollo/Augment/projection_transform3.png>
 Package pdftex.def Info: images/desarrollo/Augment/projection_transform3.png  u
-sed on input line 230.
+sed on input line 250.
 (pdftex.def)             Requested size: 275.3546pt x 123.46931pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 230.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 250.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [144
+ [145
 
  <./images/desarrollo/Augment/projection_transform3.png>]
-<images/desarrollo/Augment/fixedrotation2.png, id=4166, 673.3155pt x 299.9205pt
+<images/desarrollo/Augment/fixedrotation2.png, id=4195, 673.3155pt x 299.9205pt
 >
 File: images/desarrollo/Augment/fixedrotation2.png Graphic file (type png)
 <use images/desarrollo/Augment/fixedrotation2.png>
 Package pdftex.def Info: images/desarrollo/Augment/fixedrotation2.png  used on 
-input line 255.
+input line 275.
 (pdftex.def)             Requested size: 275.35223pt x 122.65242pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 255.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [145
-
- <./images/desarrollo/Augment/fixedrotation2.png>]
-<images/desarrollo/Augment/zoom_inv2.png, id=4195, 605.26125pt x 270.41025pt>
-File: images/desarrollo/Augment/zoom_inv2.png Graphic file (type png)
-<use images/desarrollo/Augment/zoom_inv2.png>
-Package pdftex.def Info: images/desarrollo/Augment/zoom_inv2.png  used on input
- line 278.
-(pdftex.def)             Requested size: 275.35735pt x 123.02034pt.
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 278.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 275.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [146
 
+ <./images/desarrollo/Augment/fixedrotation2.png>]
+<images/desarrollo/Augment/zoom_inv2.png, id=4223, 605.26125pt x 270.41025pt>
+File: images/desarrollo/Augment/zoom_inv2.png Graphic file (type png)
+<use images/desarrollo/Augment/zoom_inv2.png>
+Package pdftex.def Info: images/desarrollo/Augment/zoom_inv2.png  used on input
+ line 298.
+(pdftex.def)             Requested size: 275.35735pt x 123.02034pt.
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 298.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [147
+
  <./images/desarrollo/Augment/zoom_inv2.png>]
-<images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2.png, id=4223, 4
+<images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2.png, id=4251, 4
 72.76625pt x 391.4625pt>
 File: images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2.png Graphi
 c file (type png)
 <use images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2.png>
 Package pdftex.def Info: images/desarrollo/Augment/equalize_hist2_wo_Norm_woRep
-etition2.png  used on input line 297.
+etition2.png  used on input line 317.
 (pdftex.def)             Requested size: 204.60565pt x 169.41869pt.
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 297.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [147
-
- <./images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2.png>]
-<images/desarrollo/histograms/train_extended_balanced270900.png, id=4251, 1200.
-73593pt x 654.19406pt>
-File: images/desarrollo/histograms/train_extended_balanced270900.png Graphic fi
-le (type png)
-<use images/desarrollo/histograms/train_extended_balanced270900.png>
-Package pdftex.def Info: images/desarrollo/histograms/train_extended_balanced27
-0900.png  used on input line 317.
-(pdftex.def)             Requested size: 309.7655pt x 168.76878pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 317.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [148
 
+ <./images/desarrollo/Augment/equalize_hist2_wo_Norm_woRepetition2.png>]
+<images/desarrollo/histograms/train_extended_balanced270900.png, id=4279, 1200.
+73593pt x 654.19406pt>
+File: images/desarrollo/histograms/train_extended_balanced270900.png Graphic fi
+le (type png)
+<use images/desarrollo/histograms/train_extended_balanced270900.png>
+Package pdftex.def Info: images/desarrollo/histograms/train_extended_balanced27
+0900.png  used on input line 337.
+(pdftex.def)             Requested size: 309.7655pt x 168.76878pt.
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 337.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [149
+
  <./images/desarrollo/histograms/train_extended_balanced270900.png>]
-<images/desarrollo/histograms/train_extended_per_51_31314.png, id=4279, 1169.87
+<images/desarrollo/histograms/train_extended_per_51_31314.png, id=4307, 1169.87
 062pt x 658.71094pt>
 File: images/desarrollo/histograms/train_extended_per_51_31314.png Graphic file
  (type png)
 <use images/desarrollo/histograms/train_extended_per_51_31314.png>
 Package pdftex.def Info: images/desarrollo/histograms/train_extended_per_51_313
-14.png  used on input line 334.
+14.png  used on input line 354.
 (pdftex.def)             Requested size: 309.78218pt x 174.4269pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 334.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 354.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [149
+ [150
 
  <./images/desarrollo/histograms/train_extended_per_51_31314.png>]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 379.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [150
-
-]
-<images/desarrollo/Normalization_Processing/norm_test2.png, id=4334, 578.16pt x
- 69.3792pt>
-File: images/desarrollo/Normalization_Processing/norm_test2.png Graphic file (t
-ype png)
-<use images/desarrollo/Normalization_Processing/norm_test2.png>
-Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test2.
-png  used on input line 400.
-(pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 400.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 399.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [151
 
- <./images/desarrollo/Normalization_Processing/norm_test2.png>]
-File: images/desarrollo/Normalization_Processing/norm_test2.png Graphic file (t
+]
+<images/desarrollo/Normalization_Processing/norm_test3.png, id=4363, 578.16pt x
+ 72.27pt>
+File: images/desarrollo/Normalization_Processing/norm_test3.png Graphic file (t
 ype png)
-<use images/desarrollo/Normalization_Processing/norm_test2.png>
-Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test2.
-png  used on input line 400.
-(pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
+<use images/desarrollo/Normalization_Processing/norm_test3.png>
+Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test3.
+png  used on input line 420.
+(pdftex.def)             Requested size: 309.7757pt x 38.72194pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 400.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 420.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [152
 
-]
-File: images/desarrollo/Normalization_Processing/norm_test2.png Graphic file (t
+ <./images/desarrollo/Normalization_Processing/norm_test3.png>]
+File: images/desarrollo/Normalization_Processing/norm_test3.png Graphic file (t
 ype png)
-<use images/desarrollo/Normalization_Processing/norm_test2.png>
-Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test2.
-png  used on input line 400.
-(pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
+<use images/desarrollo/Normalization_Processing/norm_test3.png>
+Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test3.
+png  used on input line 420.
+(pdftex.def)             Requested size: 309.7757pt x 38.72194pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 400.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 420.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [153
 
 ]
-<images/desarrollo/Normalization_Processing/proc_test2.png, id=4422, 578.16pt x
- 69.3792pt>
-File: images/desarrollo/Normalization_Processing/proc_test2.png Graphic file (t
+File: images/desarrollo/Normalization_Processing/norm_test3.png Graphic file (t
 ype png)
-<use images/desarrollo/Normalization_Processing/proc_test2.png>
-Package pdftex.def Info: images/desarrollo/Normalization_Processing/proc_test2.
-png  used on input line 418.
-(pdftex.def)             Requested size: 309.7757pt x 37.17307pt.
+<use images/desarrollo/Normalization_Processing/norm_test3.png>
+Package pdftex.def Info: images/desarrollo/Normalization_Processing/norm_test3.
+png  used on input line 420.
+(pdftex.def)             Requested size: 309.7757pt x 38.72194pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 418.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 420.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [154
 
- <./images/desarrollo/Normalization_Processing/proc_test2.png>]
-Overfull \hbox (7.64621pt too wide) in paragraph at lines 455--455
+]
+<images/desarrollo/Normalization_Processing/proc_test4.png, id=4450, 578.16pt x
+ 72.27pt>
+File: images/desarrollo/Normalization_Processing/proc_test4.png Graphic file (t
+ype png)
+<use images/desarrollo/Normalization_Processing/proc_test4.png>
+Package pdftex.def Info: images/desarrollo/Normalization_Processing/proc_test4.
+png  used on input line 438.
+(pdftex.def)             Requested size: 309.7757pt x 38.72194pt.
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 438.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [155
+
+ <./images/desarrollo/Normalization_Processing/proc_test4.png>]
+Overfull \hbox (7.64621pt too wide) in paragraph at lines 475--475
  [] 
  []
 
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 455.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 475.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
-[155
+[156
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 489.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [156
-
-]
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 525.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 509.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [157
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 569.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 545.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [158
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 606.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 589.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [159
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 646.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 626.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [160
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 683.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 666.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [161
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 720.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 703.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [162
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 758.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 740.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [163
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 797.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 778.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [164
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 836.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 817.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [165
 
 ]
-<images/desarrollo/trainResults/germanSummary_entreAcierto.png, id=4740, 1232.3
-5406pt x 349.305pt>
-File: images/desarrollo/trainResults/germanSummary_entreAcierto.png Graphic fil
-e (type png)
-<use images/desarrollo/trainResults/germanSummary_entreAcierto.png>
-Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_entreAcie
-rto.png  used on input line 856.
-(pdftex.def)             Requested size: 344.1918pt x 97.55954pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 856.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [166
 
+]
+<images/desarrollo/trainResults/germanSummary_entreAcierto.png, id=4768, 1232.3
+5406pt x 349.305pt>
+File: images/desarrollo/trainResults/germanSummary_entreAcierto.png Graphic fil
+e (type png)
+<use images/desarrollo/trainResults/germanSummary_entreAcierto.png>
+Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_entreAcie
+rto.png  used on input line 876.
+(pdftex.def)             Requested size: 344.1918pt x 97.55954pt.
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 876.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [167
+
  <./images/desarrollo/trainResults/germanSummary_entreAcierto.png>]
-<images/desarrollo/trainResults/germanSummary_entreError.png, id=4768, 1327.208
+<images/desarrollo/trainResults/germanSummary_entreError.png, id=4796, 1327.208
 44pt x 374.90062pt>
 File: images/desarrollo/trainResults/germanSummary_entreError.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/germanSummary_entreError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_entreErro
-r.png  used on input line 874.
+r.png  used on input line 894.
 (pdftex.def)             Requested size: 344.19524pt x 97.22588pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 874.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 894.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [167
+ [168
 
  <./images/desarrollo/trainResults/germanSummary_entreError.png>]
-<images/desarrollo/trainResults/germanSummary_validAcierto.png, id=4796, 1373.1
+<images/desarrollo/trainResults/germanSummary_validAcierto.png, id=4824, 1373.1
 3pt x 393.72093pt>
 File: images/desarrollo/trainResults/germanSummary_validAcierto.png Graphic fil
 e (type png)
 <use images/desarrollo/trainResults/germanSummary_validAcierto.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_validAcie
-rto.png  used on input line 891.
+rto.png  used on input line 911.
 (pdftex.def)             Requested size: 344.1826pt x 98.68831pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 891.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 911.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [168
+ [169
 
  <./images/desarrollo/trainResults/germanSummary_validAcierto.png>]
-<images/desarrollo/trainResults/germanSummary_validError.png, id=4824, 1367.107
+<images/desarrollo/trainResults/germanSummary_validError.png, id=4853, 1367.107
 5pt x 391.4625pt>
 File: images/desarrollo/trainResults/germanSummary_validError.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/germanSummary_validError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/germanSummary_validErro
-r.png  used on input line 909.
+r.png  used on input line 929.
 (pdftex.def)             Requested size: 344.19583pt x 98.55827pt.
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 909.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [169
-
- <./images/desarrollo/trainResults/germanSummary_validError.png>]
-<images/desarrollo/trainResults/peruSummary_entreAcierto.png, id=4853, 1398.725
-63pt x 428.35031pt>
-File: images/desarrollo/trainResults/peruSummary_entreAcierto.png Graphic file 
-(type png)
-<use images/desarrollo/trainResults/peruSummary_entreAcierto.png>
-Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_entreAciert
-o.png  used on input line 929.
-(pdftex.def)             Requested size: 344.19545pt x 105.40753pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 929.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [170
 
+ <./images/desarrollo/trainResults/germanSummary_validError.png>]
+<images/desarrollo/trainResults/peruSummary_entreAcierto.png, id=4881, 1398.725
+63pt x 428.35031pt>
+File: images/desarrollo/trainResults/peruSummary_entreAcierto.png Graphic file 
+(type png)
+<use images/desarrollo/trainResults/peruSummary_entreAcierto.png>
+Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_entreAciert
+o.png  used on input line 949.
+(pdftex.def)             Requested size: 344.19545pt x 105.40753pt.
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 949.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [171
+
  <./images/desarrollo/trainResults/peruSummary_entreAcierto.png>]
-<images/desarrollo/trainResults/peruSummary_entreError.png, id=4881, 1400.23125
+<images/desarrollo/trainResults/peruSummary_entreError.png, id=4909, 1400.23125
 pt x 423.83344pt>
 File: images/desarrollo/trainResults/peruSummary_entreError.png Graphic file (t
 ype png)
 <use images/desarrollo/trainResults/peruSummary_entreError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_entreError.
-png  used on input line 947.
+png  used on input line 967.
 (pdftex.def)             Requested size: 344.18137pt x 104.17961pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 947.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 967.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [171
+ [172
 
  <./images/desarrollo/trainResults/peruSummary_entreError.png>]
-<images/desarrollo/trainResults/peruSummary_validAcierto.png, id=4909, 1400.984
+<images/desarrollo/trainResults/peruSummary_validAcierto.png, id=4937, 1400.984
 07pt x 623.32875pt>
 File: images/desarrollo/trainResults/peruSummary_validAcierto.png Graphic file 
 (type png)
 <use images/desarrollo/trainResults/peruSummary_validAcierto.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_validAciert
-o.png  used on input line 965.
+o.png  used on input line 985.
 (pdftex.def)             Requested size: 344.19539pt x 153.14012pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 965.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 985.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [172
+ [173
 
  <./images/desarrollo/trainResults/peruSummary_validAcierto.png>]
-<images/desarrollo/trainResults/peruSummary_validError.png, id=4936, 1343.0175p
+<images/desarrollo/trainResults/peruSummary_validError.png, id=4964, 1343.0175p
 t x 591.71063pt>
 File: images/desarrollo/trainResults/peruSummary_validError.png Graphic file (t
 ype png)
 <use images/desarrollo/trainResults/peruSummary_validError.png>
 Package pdftex.def Info: images/desarrollo/trainResults/peruSummary_validError.
-png  used on input line 982.
+png  used on input line 1002.
 (pdftex.def)             Requested size: 344.19658pt x 151.64714pt.
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 982.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 1002.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [173
+ [174
 
  <./images/desarrollo/trainResults/peruSummary_validError.png>])
 (CAP4.TEX (start.toc
@@ -2864,18 +2880,11 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 6.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [174
+ [175
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 34.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [175
-
-]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 34.
@@ -2885,7 +2894,7 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 34.
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 54.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 34.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [177
 
@@ -2899,7 +2908,7 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 54.
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 67.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 54.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [179
 
@@ -2913,12 +2922,19 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 67.
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 94.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 67.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [181
 
 ]
-<images/desarrollo/testResults/german/model_A_A_1.png, id=5195, 1387.584pt x 71
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 94.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [182
+
+]
+<images/desarrollo/testResults/german/model_A_A_1.png, id=5223, 1387.584pt x 71
 0.4141pt>
 File: images/desarrollo/testResults/german/model_A_A_1.png Graphic file (type p
 ng)
@@ -2930,10 +2946,10 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 116.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [182
+ [183
 
  <./images/desarrollo/testResults/german/model_A_A_1.png>]
-<images/desarrollo/testResults/german/ROC_curve_modelE.png, id=5223, 1266.98344
+<images/desarrollo/testResults/german/ROC_curve_modelE.png, id=5251, 1266.98344
 pt x 744.53156pt>
 File: images/desarrollo/testResults/german/ROC_curve_modelE.png Graphic file (t
 ype png)
@@ -2945,10 +2961,10 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 136.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [183
+ [184
 
  <./images/desarrollo/testResults/german/ROC_curve_modelE.png>]
-<images/desarrollo/testResults/german/PR_curve_modelE.png, id=5251, 1250.42157p
+<images/desarrollo/testResults/german/PR_curve_modelE.png, id=5279, 1250.42157p
 t x 744.53156pt>
 File: images/desarrollo/testResults/german/PR_curve_modelE.png Graphic file (ty
 pe png)
@@ -2960,17 +2976,17 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 155.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [184
+ [185
 
  <./images/desarrollo/testResults/german/PR_curve_modelE.png>]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 188.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [185
+ [186
 
 ]
-<images/desarrollo/testResults/peru/modelE.png, id=5305, 1361.83781pt x 724.205
+<images/desarrollo/testResults/peru/modelE.png, id=5333, 1361.83781pt x 724.205
 63pt>
 File: images/desarrollo/testResults/peru/modelE.png Graphic file (type png)
 <use images/desarrollo/testResults/peru/modelE.png>
@@ -2981,10 +2997,10 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 211.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [186
+ [187
 
  <./images/desarrollo/testResults/peru/modelE.png>]
-<images/desarrollo/testResults/peru/ROC_curve_modelE.png, id=5333, 1387.584pt x
+<images/desarrollo/testResults/peru/ROC_curve_modelE.png, id=5362, 1387.584pt x
  710.4141pt>
 File: images/desarrollo/testResults/peru/ROC_curve_modelE.png Graphic file (typ
 e png)
@@ -2996,10 +3012,10 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 231.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [187
+ [188
 
  <./images/desarrollo/testResults/peru/ROC_curve_modelE.png>]
-<images/desarrollo/testResults/peru/PR_curve_modelE.png, id=5361, 1387.584pt x 
+<images/desarrollo/testResults/peru/PR_curve_modelE.png, id=5390, 1387.584pt x 
 710.4141pt>
 File: images/desarrollo/testResults/peru/PR_curve_modelE.png Graphic file (type
  png)
@@ -3011,119 +3027,135 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 251.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
-[188
+[189
 
- <./images/desarrollo/testResults/peru/PR_curve_modelE.png>] (start.toc
+ <./images/desarrollo/testResults/peru/PR_curve_modelE.png>]
+<images/reconyzeFLow.png, id=5417, 566.86781pt x 570.48131pt>
+File: images/reconyzeFLow.png Graphic file (type png)
+<use images/reconyzeFLow.png>
+Package pdftex.def Info: images/reconyzeFLow.png  used on input line 271.
+(pdftex.def)             Requested size: 181.2976pt x 182.4533pt.
+
+Overfull \vbox (27.03142pt too high) detected at line 271
+ []
+
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 271.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+[190
+
+ <./images/reconyzeFLow.png>] (start.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 258.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
-
-[189
-
-]
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 279.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [190
-
-]
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 279.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 277.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [191
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 279.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 298.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [192
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 279.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 298.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [193
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 279.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 298.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [194
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 296.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 298.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [195
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 296.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 298.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [196
+
+[196
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 296.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 315.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [197
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 296.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 315.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [198
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 306.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 315.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [199
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 324.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 315.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [200
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 324.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 325.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
-
-[201
+ [201
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 324.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 343.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [202
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 324.
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 343.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [203
 
-]) (CAP5.TEX (start.toc
+]
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 343.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [204
+
+]
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 343.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [205
+
+]) (CAP5.TEX
+(start.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -3131,7 +3163,7 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 3.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [204
+ [206
 
 ] (start.bbl
 Underfull \hbox (badness 1748) in paragraph at lines 50--54
@@ -3150,23 +3182,7 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 <use images/LOGO_unt.jpg>
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [205
-
-]
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
- [206
-
-
-]
-File: images/LOGO_unt.jpg Graphic file (type jpg)
-<use images/LOGO_unt.jpg>
-Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
-(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [207
-
 
 ]
 File: images/LOGO_unt.jpg Graphic file (type jpg)
@@ -3174,6 +3190,22 @@ File: images/LOGO_unt.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
 (pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
  [208
+
+
+]
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [209
+
+
+]
+File: images/LOGO_unt.jpg Graphic file (type jpg)
+<use images/LOGO_unt.jpg>
+Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
+(pdftex.def)             Requested size: 30.41231pt x 24.57072pt.
+ [210
 
 
 ])
@@ -3186,22 +3218,22 @@ Package pdftex.def Info: images/LOGO_unt.jpg  used on input line 14.
 \tf@snm=\write8
 \openout8 = `start.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (start.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `start.out' has not changed.
 (rerunfilecheck)             Checksum: 334F44D08D283B0BE8D039063EDB0EA7;1048.
  ) 
 Here is how much of TeX's memory you used:
- 20468 strings out of 492970
- 387350 string characters out of 3125706
- 473890 words of memory out of 3000000
- 23277 multiletter control sequences out of 15000+200000
+ 20484 strings out of 492970
+ 387648 string characters out of 3125706
+ 473841 words of memory out of 3000000
+ 23287 multiletter control sequences out of 15000+200000
  66359 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,68p,898b,880s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3225,9 +3257,9 @@ rier/ucrr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 nts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on start.pdf (208 pages, 10687716 bytes).
+Output written on start.pdf (210 pages, 10903784 bytes).
 PDF statistics:
- 6102 PDF objects out of 6186 (max. 8388607)
- 455 named destinations out of 1000 (max. 500000)
- 509 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6163 PDF objects out of 6186 (max. 8388607)
+ 459 named destinations out of 1000 (max. 500000)
+ 519 words of extra memory for PDF output out of 10000 (max. 10000000)
 

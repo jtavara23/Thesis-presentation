@@ -250,6 +250,25 @@
 	\end{figure}	
 }
 
+\frame{
+\begin{block}
+{\Large{Reconocimiento de Señal}}
+
+\end{block}
+%\vskip 0.5cm
+	\begin{figure}[H]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth, height=0.7\textheight,keepaspectratio ]{images/reconyzeFLow} 
+			\end{center}
+
+		\begin{center}
+			\vspace{1em}
+			\caption{\tiny{Flujograma para el reconocimiento de una señal de tránsito}}
+			{\tiny{\fontsize{10}{16.8}\selectfont {Fuente: Elaboración propia}}}
+			\end{center}
+		
+	\end{figure}	
+}
 
 
 %------------------------------------------------------------------------------------------------------------------------------------------
@@ -273,7 +292,7 @@
 		\vskip 0.25cm
 		\item<4->Fueron diseñados cinco modelos de red para cada dataset, los cuales fueron entrenados, validados y evaluados individualmente. 
 		\vskip 0.25cm
-		\item<5->Luego de experimentar el uso de diversas funciones de activación, funciones de costo, ajuste de parámetros y métodos de optimización, se logró determinar un conjunto de hiperparámetros (Sección 3.2) de los cuales solo la Tasa de Aprendizaje varía para cada dataset de imágenes.
+		\item<5->Luego de experimentar el uso de diversas funciones de activación, funciones de costo, ajuste de parámetros y métodos de optimización, se logró determinar un conjunto de hiperparámetros de los cuales solo la Tasa de Aprendizaje varía para cada dataset de imágenes.
 	\end{itemize}
 \end{itemize}
 }
@@ -288,9 +307,9 @@
 		\begin{itemize}
 		\item<2-> Al finalizar el análisis de los 10 modelos (cinco por cada dataset), se puede observar que cuanto más profunda sea la red neuronal, se obtienen mejores resultados. 
 		\vskip 0.25cm
-		\item<3->El modelo final obtenido compuesto principalmente de 4 capas convolucionales, 2 capas totalmente conectadas y un total de 90185 neuronas, contribuye en el reconocimiento de señales de Tránsito de Alemania con una tasa de acierto del {\bf 98.62\%}, mucho mejor que el resultado de 95.29\% obtenido por \cite{Ayuque2016} y mucho más próximo al mejor resultado de 99.46\% obtenido en las investigaciones hechas por \cite{Ciresan} en base al dataset GTSRB.
+		\item<3->El modelo final obtenido compuesto principalmente de 4 capas convolucionales, 2 capas totalmente conectadas y un total de aproximadamente 2 millones de neuronas, contribuye en el reconocimiento de señales de Tránsito de Alemania con una tasa de acierto del {\bf 98.62\%}, mucho mejor que el resultado de 95.29\% obtenido por \cite{Ayuque2016} y mucho más próximo al mejor resultado de 99.46\% obtenido en las investigaciones hechas por \cite{Ciresan} en base al dataset GTSRB.
 		\vskip 0.25cm
-		\item<4->Para el dataset de señales de tránsito vehicular del Perú, el modelo E con el mismo diseño neuronal y similares configuraciones compuesto por 279623 neuronas permite también obtener un {\bf alto grado de acierto (99.02\%)} tras analizar 4698 imágenes. 
+		\item<4->Para el dataset de señales de tránsito vehicular del Perú, el modelo E con el mismo diseño neuronal y similares configuraciones compuesto por aproximadamente 6 millones de neuronas permite también obtener un {\bf alto grado de acierto (99.02\%)} tras analizar 4698 imágenes. 
 	\end{itemize}
 \end{itemize}
 }
